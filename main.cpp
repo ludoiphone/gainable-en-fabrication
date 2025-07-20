@@ -14,7 +14,7 @@ unsigned long long chrono;
 
 int main(int argc, char *argv[])
 {
-    Modes fonctions;
+    Modes modes;
     DS18B20 temperatureExt;
     
     while (1) 
@@ -24,11 +24,11 @@ int main(int argc, char *argv[])
         
         if (time(nullptr) - chrono >= deltaT)
         {
-            fonctions.SetTemperatureExt(temperatureExt.GetTempExt());
+            modes.SetTemperatureExt(temperatureExt.GetTempExt());
             chrono = time(nullptr);
         }
         
-        fonctions.productions();
+        modes.productions();
         
         sleep(1);
     }
