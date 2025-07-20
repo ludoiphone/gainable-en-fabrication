@@ -15,7 +15,6 @@ class Temperatures
 	double d_sondeExtLue;
 	
 public:
-    Temperatures();
     ~Temperatures();
     
     void lectureSondeExt(double sondeExtLue);
