@@ -5,9 +5,9 @@ void Modes::productions()
 	if (contactThermostat.GetThermostats() == true)
 	{
 		if (temperatureExt < 13.5) {
-			modeChauffage.chauffage();
+			modeChauffage.fonctionChauffage();
 		} else {
-			modeFroid.refroidissement();
+			modeFroid.fonctionFroid();
 		}
 	}
 } 
