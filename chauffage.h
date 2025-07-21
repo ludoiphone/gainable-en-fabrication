@@ -8,7 +8,7 @@ class Chauffage
 {
 
 public:
-    void chauffage();
+    void fonctionChauffage();
 };
 
 #endif //CHAUFFAGE_H
