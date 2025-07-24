@@ -1,11 +1,8 @@
-#include <iostream>
 #include <ctime>
 #include <unistd.h>
 
 #include "modes.h"
 #include "ds18b20.h"
-
-using namespace std;
 
 time_t rawtime;
 
@@ -20,7 +17,7 @@ int main(int argc, char *argv[])
     while (1) 
     {
         time ( & rawtime);
-        cout << "date : " << ctime ( & rawtime) << endl;
+        printf("Date : %s\n\n", ctime ( & rawtime));
         
         if (time(nullptr) - chrono >= deltaT)
         {
@@ -29,8 +26,6 @@ int main(int argc, char *argv[])
         }
         
         modes.productions();
-        
-        sleep(1);
     }
     return 0;
 }
