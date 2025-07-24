@@ -1,13 +1,9 @@
 #ifndef MODES_H
 #define MODES_H
 
-#include <iostream>
-
 #include "thermostats.h"
 #include "froid.h"
 #include "chauffage.h"
-
-using namespace std;
 
 class Modes
 {
