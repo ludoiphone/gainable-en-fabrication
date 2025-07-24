@@ -1,8 +1,8 @@
 #include <ctime>
 #include <unistd.h>
 
-#include "modes.h"
 #include "ds18b20.h"
+#include "modes.h"
 
 time_t rawtime;
 
@@ -11,8 +11,13 @@ unsigned long long chrono;
 
 int main(int argc, char *argv[])
 {
+    DS18B20 sondeExt;
+    DS18B20 sondeUnitExt;
+    DS18B20 sondeEchangeurExt;
+    DS18B20 sondeUnitInt;
+    DS18B20 sondeEchangeurInt;
+    
     Modes modes;
-    DS18B20 temperatureExt;
     
     while (1) 
     {
@@ -21,7 +26,8 @@ int main(int argc, char *argv[])
         
         if (time(nullptr) - chrono >= deltaT)
         {
-            modes.SetTemperatureExt(temperatureExt.GetTempExt());
+            modes.SetTemperatures(sondeExt.GetTempExt(), sondeUnitExt.GetTempUnitExt(), sondeEchangeurExt.GetTempEchExt(),
+            sondeUnitInt.GetTempUnitInt(), sondeEchangeurInt.GetTempEchInt());
             chrono = time(nullptr);
         }
         
