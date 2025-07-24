@@ -22,7 +22,7 @@ int main(int argc, char *argv[])
         
         if (time(nullptr) - chrono >= deltaT)
         {
-            modes.SetTemperatures(sondeExt.GetTempExt());
+            modes.SetTemperatureExt(sondeExt.GetTempExt());
             chrono = time(nullptr);
         }
         
