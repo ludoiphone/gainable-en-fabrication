@@ -52,5 +52,4 @@ float DS18B20::GetTempEchInt()
 
 DS18B20::~DS18B20()
 {
-    cout << "Destructeur DS18B20" << endl;
 }
