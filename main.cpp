@@ -12,10 +12,6 @@ unsigned long long chrono;
 int main(int argc, char *argv[])
 {
     DS18B20 sondeExt;
-    DS18B20 sondeUnitExt;
-    DS18B20 sondeEchangeurExt;
-    DS18B20 sondeUnitInt;
-    DS18B20 sondeEchangeurInt;
     
     Modes modes;
     
@@ -26,8 +22,7 @@ int main(int argc, char *argv[])
         
         if (time(nullptr) - chrono >= deltaT)
         {
-            modes.SetTemperatures(sondeExt.GetTempExt(), sondeUnitExt.GetTempUnitExt(), sondeEchangeurExt.GetTempEchExt(),
-            sondeUnitInt.GetTempUnitInt(), sondeEchangeurInt.GetTempEchInt());
+            modes.SetTemperatures(sondeExt.GetTempExt());
             chrono = time(nullptr);
         }
         
