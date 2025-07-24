@@ -4,10 +4,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <strings.h>
-#include <ctime>
-#include <iostream>
-
-using namespace std;
 
 class DS18B20
 {
