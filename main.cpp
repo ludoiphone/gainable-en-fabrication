@@ -6,7 +6,7 @@
 
 time_t rawtime;
 
-const int deltaT = 5;
+const int deltaT {5};
 unsigned long long chrono;
 
 int main(int argc, char *argv[])
