@@ -5,7 +5,7 @@
 #define OFF HIGH
 #define ON LOW
 
-const int thermostats = 17;
+const int thermostats {17};
 
 Thermostats::Thermostats()
 {
