@@ -1,14 +1,14 @@
 #ifndef THERMOSTATS_H
 #define THERMOSTATS_H
 
-class Thermostats
+class Thermostat
 {
 	
 public:
-    Thermostats();
-    ~Thermostats();
+    Thermostat();
+    ~Thermostat();
     
-    bool GetThermostats( );
+    bool GetThermostat( );
 };
 
 #endif // THERMOSTATS_H
