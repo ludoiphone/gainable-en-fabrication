@@ -1,6 +1,6 @@
-#include "modes.h"
+#include "system.h"
 
-void Modes::productions()
+void System::productions()
 {
 	if (contactThermostat.GetThermostats() == true)
 	{
@@ -12,11 +12,11 @@ void Modes::productions()
 	}
 } 
 
-void Modes::SetTemperatureExt(double temperatureExtLue)
+void System::SetTemperatureExt(double temperatureExtLue)
 {
 	temperatureExt = temperatureExtLue;
 }
 
-Modes::~Modes()
+System::~System()
 {	
 }
