@@ -11,7 +11,7 @@ class Modes
     
     Chauffage modeChauffage;
     
-    Thermostats contactThermostat;
+    Thermostat contactThermostat;
     
     double temperatureExt;
 	
