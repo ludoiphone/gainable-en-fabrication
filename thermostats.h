@@ -8,7 +8,7 @@ public:
     Thermostat();
     ~Thermostat();
     
-    bool GetThermostat( );
+    bool GetContactThermostat( );
 };
 
 #endif // THERMOSTATS_H
