@@ -5,11 +5,11 @@
 #define OFF HIGH
 #define ON LOW
 
-const int contactThermostat {17};
+const int pinThermostat {17};
 
 Thermostat::Thermostat()
 {
-	pinMode (contactThermostat, INPUT_PULLUP);
+	pinMode (pinThermostat, INPUT_PULLUP);
 }
 
 bool Thermostat::GetContactThermostat()
