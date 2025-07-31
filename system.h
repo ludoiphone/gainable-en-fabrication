@@ -11,7 +11,7 @@ class System
     
     Chauffage modeChauffage;
     
-    Thermostat etatThermostat;
+    Thermostat contactThermostat;
     
     double temperatureExt;
 	
@@ -19,7 +19,7 @@ public:
     ~System();
 
     void SetTemperatureExt(double temperatureExtLue);
-    void productions();
+    void production();
 };
 
 #endif // SYSTEM_H
