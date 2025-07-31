@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
             chrono = time(nullptr);
         }
         
-        mode.productions();
+        mode.production();
     }
     return 0;
 }
