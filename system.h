@@ -1,11 +1,11 @@
-#ifndef MODES_H
-#define MODES_H
+#ifndef SYSTEM_H
+#define SYSTEM_H
 
 #include "thermostats.h"
 #include "froid.h"
 #include "chauffage.h"
 
-class Modes
+class System
 {
     Froid modeFroid;
     
@@ -16,10 +16,10 @@ class Modes
     double temperatureExt;
 	
 public:
-    ~Modes();
+    ~System();
 
     void SetTemperatureExt(double temperatureExtLue);
     void productions();
 };
 
-#endif // MODES_H
+#endif // SYSTEM_H
