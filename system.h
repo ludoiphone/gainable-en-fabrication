@@ -11,7 +11,7 @@ class System
     
     Chauffage modeChauffage;
     
-    Thermostat contactThermostat;
+    Thermostat etatThermostat;
     
     double temperatureExt;
 	
