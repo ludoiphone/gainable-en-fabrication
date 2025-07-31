@@ -1,8 +1,8 @@
 #include "system.h"
 
-void System::productions()
+void System::production()
 {
-	if (contactThermostat.GetThermostats() == true)
+	if (contactThermostat.GetEtatThermostats() == true)
 	{
 		if (temperatureExt < 13.5) {
 			modeChauffage.fonctionChauffage();
