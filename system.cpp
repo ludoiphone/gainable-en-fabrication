@@ -2,7 +2,7 @@
 
 void System::production()
 {
-	if (contactThermostat.GetEtatThermostats() == true)
+	if (commandeThermostat.GetEtatThermostats() == true)
 	{
 		if (temperatureExt < 13.5) {
 			modeChauffage.fonctionChauffage();
