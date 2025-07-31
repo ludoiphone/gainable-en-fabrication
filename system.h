@@ -2,19 +2,16 @@
 #define SYSTEM_H
 
 #include "thermostats.h"
-#include "froid.h"
-#include "chauffage.h"
 
 class System
 {
-    Froid modeFroid;
-    
-    Chauffage modeChauffage;
-    
     Thermostat commandeThermostat;
     
     double temperatureExt;
-	
+
+    void modeChauffage();
+    void modeFroid();
+    
 public:
     ~System();
 
