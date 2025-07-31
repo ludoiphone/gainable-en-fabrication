@@ -5,23 +5,23 @@
 #define OFF HIGH
 #define ON LOW
 
-const int thermostats {17};
+const int contactThermostat {17};
 
-Thermostats::Thermostats()
+Thermostat::Thermostat()
 {
-	pinMode (thermostats, INPUT_PULLUP);
+	pinMode (contactThermostat, INPUT_PULLUP);
 }
 
-bool Thermostats::GetThermostats()
+bool Thermostat::GetThermostat()
 {
-	if (digitalRead(thermostats) == ON)
+	if (digitalRead(contactThermostat) == ON)
 	{
 		return true;
 	}
 	return false;
 }
 
-Thermostats::~Thermostats()
+Thermostat::~Thermostat()
 {
 	
 }
