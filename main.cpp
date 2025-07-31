@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 {
     DS18B20 sondeExt;
     
-    System modes;
+    System mode;
     
     while (1) 
     {
@@ -22,11 +22,11 @@ int main(int argc, char *argv[])
         
         if (time(nullptr) - chrono >= deltaT)
         {
-            modes.SetTemperatureExt(sondeExt.GetTempExt());
+            mode.SetTemperatureExt(sondeExt.GetTempExt());
             chrono = time(nullptr);
         }
         
-        modes.productions();
+        mode.productions();
     }
     return 0;
 }
