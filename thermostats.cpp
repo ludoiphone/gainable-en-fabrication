@@ -14,7 +14,7 @@ Thermostat::Thermostat()
 
 bool Thermostat::GetContactThermostat()
 {
-	if (digitalRead(contactThermostat) == ON)
+	if (digitalRead(pinThermostat) == ON)
 	{
 		return true;
 	}
