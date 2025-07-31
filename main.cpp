@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 #include "ds18b20.h"
-#include "modes.h"
+#include "system.h"
 
 time_t rawtime;
 
@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
 {
     DS18B20 sondeExt;
     
-    Modes modes;
+    System modes;
     
     while (1) 
     {
