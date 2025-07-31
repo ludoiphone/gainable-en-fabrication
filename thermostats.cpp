@@ -12,7 +12,7 @@ Thermostat::Thermostat()
 	pinMode (contactThermostat, INPUT_PULLUP);
 }
 
-bool Thermostat::GetThermostat()
+bool Thermostat::GetContactThermostat()
 {
 	if (digitalRead(contactThermostat) == ON)
 	{
