@@ -13,9 +13,7 @@ add_executable(test
 main.cpp   
 ds18b20.cpp 
 thermostats.cpp
-modes.cpp 
-chauffage.cpp
-froid.cpp
+system.cpp
 gpioPin.cpp 
 )
 
