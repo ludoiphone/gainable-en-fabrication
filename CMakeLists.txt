@@ -14,9 +14,8 @@ main.cpp
 ds18b20.cpp 
 thermostats.cpp
 system.cpp
-gpioPin.cpp 
 )
 
 target_link_libraries(test Qt5::Widgets 
-gpiod 
+-lwiringPi
 )
