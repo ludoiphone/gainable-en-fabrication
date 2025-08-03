@@ -1,7 +1,5 @@
 #include "thermostats.h"
 
-#include "gpioPin.hpp"
-
 #define OFF HIGH
 #define ON LOW
 
@@ -9,7 +7,9 @@ const int pinThermostat {17};
 
 Thermostat::Thermostat()
 {
-	pinMode (pinThermostat, INPUT_PULLUP);
+	wiringPiSetupGpio();
+	pinMode(pinThermostat, INPUT);
+	pullUpDnControl(pinThermostat, PUD_UP);
 }
 
 bool Thermostat::GetContactThermostat()
