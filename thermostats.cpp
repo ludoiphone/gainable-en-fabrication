@@ -3,8 +3,6 @@
 #define OFF HIGH
 #define ON LOW
 
-const int pinThermostat {17};
-
 Thermostat::Thermostat()
 {
 	wiringPiSetupGpio();
