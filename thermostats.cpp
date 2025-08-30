@@ -1,4 +1,4 @@
-#include "thermostats.h"
+#include "Thermostats.h"
 
 #define OFF HIGH
 #define ON LOW
