@@ -10,12 +10,12 @@ set(CMAKE_AUTOUIC ON)
 find_package(Qt5 COMPONENTS Widgets REQUIRED)
 
 add_executable(test 
-main.cpp   
+Main.cpp   
 ds18b20.cpp 
-thermostats.cpp
-system.cpp
+Thermostats.cpp
 )
 
 target_link_libraries(test Qt5::Widgets 
 -lwiringPi
+-lpthread
 )
