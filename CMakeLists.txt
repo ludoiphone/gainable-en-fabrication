@@ -13,6 +13,11 @@ add_executable(test
 Main.cpp   
 ds18b20.cpp 
 Thermostats.cpp
+Relay.cpp
+mainwindow.cpp
+affichecons.cpp
+modifcons.cpp
+consignes.cpp
 )
 
 target_link_libraries(test Qt5::Widgets 
