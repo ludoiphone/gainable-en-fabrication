@@ -145,9 +145,10 @@ private:
     void display_status() {display_outdoor_temperature(); froid.display_status(); chaud.display_status(); automatique.display_status();}
 };
 
-void start_pac()
+PAC pac;
+
+void startPac()
 {
-    PAC pac;
     pac.run_pac();
 }
 
@@ -163,10 +164,10 @@ int main(int argc, char *argv[])
     initConsignes = new Consignes(QString("settings/consignes.ini"), QSettings::IniFormat);
     initConsignes ->controleConsignes();
     
-    QTimer timer_modePac;
-    int timerPac {1000};
-    QObject::connect(&timer_modePac, &QTimer::timeout, start_pac);
-    timer_modePac.start(timerPac);
+    QTimer timerPac;
+    int timePac {1000};
+    QObject::connect(&timerPac, &QTimer::timeout, startPac);
+    timerPac.start(timePac);
     
     return app.exec();
 }
