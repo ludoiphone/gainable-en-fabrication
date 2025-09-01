@@ -145,10 +145,9 @@ private:
     void display_status() {display_outdoor_temperature(); froid.display_status(); chaud.display_status(); automatique.display_status();}
 };
 
-PAC pac;
-
-void startPac()
+void read_mode_Pac()
 {
+	static PAC pac;
     pac.run_pac();
 }
 
@@ -166,7 +165,7 @@ int main(int argc, char *argv[])
     
     QTimer timerPac;
     int timePac {1000};
-    QObject::connect(&timerPac, &QTimer::timeout, startPac);
+    QObject::connect(&timerPac, &QTimer::timeout, read_mode_Pac);
     timerPac.start(timePac);
     
     return app.exec();
