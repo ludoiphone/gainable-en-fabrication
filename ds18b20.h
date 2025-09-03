@@ -1,26 +1,31 @@
 #ifndef DS18B20_H
 #define DS18B20_H
 
-#include <cstdio>
+#include <inttypes.h>
+#include <stdio.h>
 #include <stdlib.h>
-#include <strings.h>
+#include <string.h>
+#include <errno.h>
 
-#include "Trace.h"
+#define CELCIUS 0
+#define FAHRENHEIT 1
+#define BUS "/sys/bus/w1/devices/"
+#define TEMPFILE "/w1_slave"
 
-class DS18B20
-{
-
+class DS18B20 {
+	
 public:
-    float get_tempExt();
-    float get_tempUnitExt();
-    float get_tempEchExt();
-    float get_tempUnitInt();
-    float get_tempEchInt();
-    
+	DS18B20(const char* address);
+	virtual ~DS18B20();
+	uint8_t getUnits();
+	void setUnits(uint8_t);
+	float getTemp();
+	float CtoF(float);
+	
 private:
-    char buffer[10];
-    char * end;
-    float tempExtLue, tempUnitExtLue, tempEchExtLue, tempUnitIntLue, tempEchIntLue;
+	uint8_t unit_;
+	char* address_;
+	char path[47]; // path should be 46 chars
 };
 
 #endif // DS18B20_H
