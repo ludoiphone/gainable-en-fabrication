@@ -1,51 +1,48 @@
-#include "ds18b20.h"
+#include "Ds18b20.h"
 
-float DS18B20::get_tempExt()
-{
-    FILE * probe1 = fopen("/sys/bus/w1/devices/w1_bus_master1/28-3ce1e3804835/temperature","rt");
-    int numread1 = fread(buffer,10,1,probe1);
-    fclose(probe1);
-    tempExtLue = ("%5.2fC\n",strtol(buffer,&end,10)/1000.0);
-
-    return tempExtLue;
+DS18B20::DS18B20(const char* address) {
+	address_ = strdup(address);
+	unit_ = CELCIUS;
+	snprintf(path, 46, "%s%s%s", BUS, address_, TEMPFILE);
 }
 
-float DS18B20::get_tempUnitExt()
-{
-    FILE * probe2 = fopen("/sys/bus/w1/devices/w1_bus_master1/28-3ce1e3809744/temperature","rt");
-    int numread2 = fread(buffer,10,1,probe2);
-    fclose(probe2);
-    tempUnitExtLue = ("%5.2fC\n",strtol(buffer,&end,10)/1000.0);
-    
-    return tempUnitExtLue;
+DS18B20::~DS18B20() {
 }
 
-float DS18B20::get_tempEchExt()
-{
-    FILE * probe3 = fopen("/sys/bus/w1/devices/w1_bus_master1/28-3ce1e38060ec/temperature","rt");
-    int numread3 = fread(buffer,10,1,probe3);
-    fclose(probe3);
-    tempEchExtLue = ("%5.2fC\n",strtol(buffer,&end,10)/1000.0);
-    
-    return tempEchExtLue;
+float DS18B20::getTemp() {
+	FILE *devFile = fopen(path, "r");
+	if (devFile == NULL) {
+		printf("Count not open %s\n", path);
+		perror("\n");
+	}
+	float temp = -1;
+	if (devFile != NULL) {
+		if (!ferror(devFile)) {
+			unsigned int tempInt;
+			char crcConf[5];
+			fscanf(devFile, "%*x %*x %*x %*x %*x %*x %*x %*x %*x : crc=%*x %s", crcConf);
+			if (strncmp(crcConf, "YES", 3) == 0) {
+				fscanf(devFile, "%*x %*x %*x %*x %*x %*x %*x %*x %*x t=%5d", &tempInt);
+				temp = (float) tempInt / 1000.0;
+			}
+		}
+	}
+	fclose(devFile);
+
+	if (unit_ == CELCIUS) {
+		return temp;
+	} else
+		return CtoF(temp);
 }
 
-float DS18B20::get_tempUnitInt()
-{
-    FILE * probe4 = fopen("/sys/bus/w1/devices/w1_bus_master1/28-3ce1e3801251/temperature","rt");
-    int numread4 = fread(buffer,10,1,probe4);
-    fclose(probe4);
-    tempUnitIntLue = ("%5.2fC\n",strtol(buffer,&end,10)/1000.0);
-    
-    return tempUnitIntLue;
+uint8_t DS18B20::getUnits() {
+	return unit_;
 }
 
-float DS18B20::get_tempEchInt()
-{
-    FILE * probe5 = fopen("/sys/bus/w1/devices/w1_bus_master1/28-3ce1e3805e9f/temperature","rt");
-    int numread5 = fread(buffer,10,1,probe5);
-    fclose(probe5);
-    tempEchIntLue = ("%5.2fC\n",strtol(buffer,&end,10)/1000.0);
-    
-    return tempEchIntLue;
+void DS18B20::setUnits(uint8_t u) {
+	unit_ = u;
+}
+
+float DS18B20::CtoF(float temp) {
+	return temp * 1.8 + 32;
 }
