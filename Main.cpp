@@ -1,7 +1,7 @@
 #include <QTimer>
 
 #include "Trace.h"
-#include "ds18b20.h"
+#include "Ds18b20.h"
 #include "Thermostats.h"
 #include "Relay.h"
 #include "mainwindow.h"
@@ -59,25 +59,26 @@ class PAC { // Pompe_A_Chaleur
 
 public:    
     void run_pac() {
-	if (read_thermostat_room()) {
-	    if (read_sensorOutside() <= 13.5) {
-		TRACE("Setting chauffage mode...\n");
-		set_mode(HEATING);
-	    } else {
-		TRACE("Setting froid mode...\n");
-		set_mode(COOLING);
-	    }
-	} else {
-	    TRACE("Setting off mode ...\n");
-	    set_mode(OFF);
-	}
+		sensorOutside = new DS18B20("28-3ce1e3804835");
+		if (read_thermostat_room()) {
+			if (sensorOutside ->getTemp() <= 13.5) {
+				TRACE("Setting chauffage mode...\n");
+				set_mode(HEATING);
+			} else {
+				TRACE("Setting froid mode...\n");
+				set_mode(COOLING);
+			}
+		} else {
+			TRACE("Setting off mode ...\n");
+			set_mode(OFF);
+		}
     }
 
 private:
     Heating chaud {};
     Cooling froid {};
     Automatic automatique {};
-    DS18B20 sensorOutside {};
+    DS18B20 *sensorOutside {};
     Thermostat thermostatRoom {};
     Relay orderRelay {};
     
@@ -129,10 +130,10 @@ private:
     }
     
     Mode get_mode() {return mode;} // en réponse à la question précédente, si besoin d'un get_mode()
+
+    double read_sensorOutside() {return sensorOutside ->getTemp();}
     
-    double read_sensorOutside() {return sensorOutside.get_tempExt();}
-    
-    void display_outdoor_temperature() {TRACE("sensor outside : %2.2f\n", sensorOutside.get_tempExt());}
+    void display_outdoor_temperature() {TRACE("sensor outside : %2.2f\n", read_sensorOutside());}
     
     bool read_thermostat_room() {TRACE("thermostat is: %s", thermostatRoom.get_etatThermostat() ? "true\n" : "false\n"); return thermostatRoom.get_etatThermostat();}
 
