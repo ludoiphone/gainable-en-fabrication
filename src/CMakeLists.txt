@@ -38,12 +38,12 @@ set(HEADERS
     logic/newsfetcher.hpp
     core/PacController.hpp
     ui/MainWindow.hpp
-    ui/DateTime.cpp
-    ui/NewsBanner.cpp
-    ui/TemperatureWidget.cpp
-    ui/PacControl.cpp
-    ui/Gifs.cpp
-    ui/Photos.cpp
+    ui/DateTime.hpp
+    ui/NewsBanner.hpp
+    ui/TemperatureWidget.hpp
+    ui/PacControl.hpp
+    ui/Gifs.hpp
+    ui/Photos.hpp
     ui/appwindow.hpp
     ui/affichecons.hpp
     ui/modifcons.hpp
