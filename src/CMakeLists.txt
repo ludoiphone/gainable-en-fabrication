@@ -20,8 +20,8 @@ set(SOURCES
     ui/Gifs.cpp
     ui/Photos.cpp
     ui/AppWindow.cpp
-    ui/affichecons.cpp
-    ui/modifcons.cpp
+    ui/AfficheCons.cpp
+    ui/ModifCons.cpp
 )
 
 # liste des headers (facultative mais pratique)
@@ -43,8 +43,8 @@ set(HEADERS
     ui/Gifs.hpp
     ui/Photos.hpp
     ui/AppWindow.hpp
-    ui/affichecons.hpp
-    ui/modifcons.hpp
+    ui/AfficheCons.hpp
+    ui/ModifCons.hpp
 )
 
 # active automoc pour Qt (génère automatiquement les moc si Q_OBJECT est présent)
