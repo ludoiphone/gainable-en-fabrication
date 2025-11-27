@@ -19,7 +19,7 @@ set(SOURCES
     ui/PacControl.cpp
     ui/Gifs.cpp
     ui/Photos.cpp
-    ui/appwindow.cpp
+    ui/AppWindow.cpp
     ui/affichecons.cpp
     ui/modifcons.cpp
 )
@@ -42,7 +42,7 @@ set(HEADERS
     ui/PacControl.hpp
     ui/Gifs.hpp
     ui/Photos.hpp
-    ui/appwindow.hpp
+    ui/AppWindow.hpp
     ui/affichecons.hpp
     ui/modifcons.hpp
 )
