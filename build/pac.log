@@ -1,0 +1,2000 @@
+[INFO   ] Wed 26 Nov 2025 06:37:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:52 : [NTC] Ext=9.00 UExt=21.10 EExt=21.02
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:37:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:53 : [NTC] Ext=9.00 UExt=21.09 EExt=21.04
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:37:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:54 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:37:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:55 : [NTC] Ext=9.00 UExt=21.08 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:37:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:56 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.24 EInt=21.64
+[INFO   ] Wed 26 Nov 2025 06:37:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:57 : [NTC] Ext=9.00 UExt=21.07 EExt=21.14
+UInt=22.27 EInt=21.56
+[INFO   ] Wed 26 Nov 2025 06:37:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:58 : [NTC] Ext=9.00 UExt=21.02 EExt=21.11
+UInt=22.21 EInt=21.51
+[INFO   ] Wed 26 Nov 2025 06:37:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:37:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:37:59 : [NTC] Ext=9.00 UExt=21.04 EExt=21.10
+UInt=22.18 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:38:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:00 : [NTC] Ext=9.00 UExt=21.05 EExt=21.09
+UInt=22.16 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:38:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:01 : [NTC] Ext=9.00 UExt=21.06 EExt=21.08
+UInt=22.14 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:38:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:02 : [NTC] Ext=9.00 UExt=21.06 EExt=21.01
+UInt=22.14 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:38:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:03 : [NTC] Ext=9.00 UExt=21.06 EExt=21.03
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:04 : [NTC] Ext=9.00 UExt=20.93 EExt=21.04
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:05 : [NTC] Ext=9.00 UExt=20.98 EExt=21.05
+UInt=22.29 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:06 : [NTC] Ext=9.00 UExt=21.01 EExt=21.06
+UInt=22.23 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:07 : [NTC] Ext=9.00 UExt=21.03 EExt=20.99
+UInt=22.26 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:08 : [NTC] Ext=9.00 UExt=21.05 EExt=21.02
+UInt=22.21 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:09 : [NTC] Ext=9.00 UExt=21.05 EExt=21.04
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:10 : [NTC] Ext=9.00 UExt=21.06 EExt=21.05
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:11 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:12 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:13 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.20 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:14 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.23 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:15 : [NTC] Ext=9.00 UExt=21.07 EExt=20.86
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:16 : [NTC] Ext=9.00 UExt=21.07 EExt=20.87
+UInt=22.16 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:38:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:17 : [NTC] Ext=9.00 UExt=21.07 EExt=20.94
+UInt=22.22 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:38:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:18 : [NTC] Ext=9.00 UExt=21.07 EExt=20.93
+UInt=22.24 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:38:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:19 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.20 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:38:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:20 : [NTC] Ext=9.00 UExt=21.13 EExt=21.01
+UInt=22.17 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:22 : [NTC] Ext=9.00 UExt=21.11 EExt=21.03
+UInt=22.15 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:23 : [NTC] Ext=9.00 UExt=21.09 EExt=20.99
+UInt=22.14 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:38:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:24 : [NTC] Ext=9.00 UExt=21.08 EExt=21.02
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:25 : [NTC] Ext=9.00 UExt=21.08 EExt=21.04
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:26 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:27 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:28 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:29 : [NTC] Ext=9.00 UExt=21.07 EExt=21.13
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:30 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:31 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:32 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:33 : [NTC] Ext=9.00 UExt=21.14 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:34 : [NTC] Ext=9.00 UExt=21.11 EExt=21.07
+UInt=22.18 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:38:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:35 : [NTC] Ext=9.00 UExt=21.09 EExt=21.07
+UInt=22.15 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:38:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:36 : [NTC] Ext=9.00 UExt=21.08 EExt=21.07
+UInt=22.21 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:37 : [NTC] Ext=9.00 UExt=21.08 EExt=21.07
+UInt=22.18 EInt=21.70
+[INFO   ] Wed 26 Nov 2025 06:38:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:38 : [NTC] Ext=9.00 UExt=21.08 EExt=21.07
+UInt=22.23 EInt=21.60
+[INFO   ] Wed 26 Nov 2025 06:38:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:39 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.19 EInt=21.54
+[INFO   ] Wed 26 Nov 2025 06:38:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:41 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.15 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:38:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:42 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.14 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:38:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:43 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.13 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:38:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:44 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.13 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:38:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:45 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:38:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:46 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:47 : [NTC] Ext=9.00 UExt=21.07 EExt=21.11
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:48 : [NTC] Ext=9.00 UExt=21.07 EExt=21.10
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:49 : [NTC] Ext=9.00 UExt=20.96 EExt=21.02
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:50 : [NTC] Ext=9.00 UExt=20.89 EExt=21.04
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:51 : [NTC] Ext=9.00 UExt=20.95 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:52 : [NTC] Ext=9.00 UExt=20.99 EExt=21.06
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:53 : [NTC] Ext=9.00 UExt=21.02 EExt=21.06
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:54 : [NTC] Ext=9.00 UExt=20.97 EExt=21.06
+UInt=22.22 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:55 : [NTC] Ext=9.00 UExt=21.01 EExt=21.07
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:56 : [NTC] Ext=9.00 UExt=21.03 EExt=21.07
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:57 : [NTC] Ext=9.00 UExt=21.04 EExt=21.07
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:58 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:38:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:38:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:38:59 : [NTC] Ext=9.00 UExt=20.99 EExt=21.02
+UInt=22.13 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:39:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:00 : [NTC] Ext=9.00 UExt=21.02 EExt=21.04
+UInt=22.13 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:39:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:01 : [NTC] Ext=9.00 UExt=21.04 EExt=21.05
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:39:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:02 : [NTC] Ext=9.00 UExt=21.11 EExt=21.00
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:39:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:03 : [NTC] Ext=9.00 UExt=21.09 EExt=21.03
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:39:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:04 : [NTC] Ext=9.00 UExt=20.88 EExt=21.04
+UInt=22.12 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:39:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:05 : [NTC] Ext=9.00 UExt=20.95 EExt=21.05
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:39:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:06 : [NTC] Ext=9.00 UExt=20.99 EExt=21.06
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:07 : [NTC] Ext=9.00 UExt=21.02 EExt=21.06
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:09 : [NTC] Ext=9.00 UExt=21.04 EExt=21.07
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:10 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.18 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:11 : [NTC] Ext=9.00 UExt=21.06 EExt=20.72
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:12 : [NTC] Ext=9.00 UExt=21.06 EExt=20.85
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:13 : [NTC] Ext=9.00 UExt=21.06 EExt=20.93
+UInt=22.21 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:14 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:15 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:16 : [NTC] Ext=9.00 UExt=20.79 EExt=21.03
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:17 : [NTC] Ext=9.00 UExt=20.89 EExt=21.05
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:18 : [NTC] Ext=9.00 UExt=20.96 EExt=21.05
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:19 : [NTC] Ext=9.00 UExt=21.00 EExt=21.13
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:20 : [NTC] Ext=9.00 UExt=21.02 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:21 : [NTC] Ext=9.00 UExt=21.04 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:22 : [NTC] Ext=9.00 UExt=20.99 EExt=21.06
+UInt=22.12 EInt=21.28
+[INFO   ] Wed 26 Nov 2025 06:39:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:23 : [NTC] Ext=9.00 UExt=21.02 EExt=21.07
+UInt=22.12 EInt=21.33
+[INFO   ] Wed 26 Nov 2025 06:39:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:24 : [NTC] Ext=9.00 UExt=20.98 EExt=21.07
+UInt=22.12 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:39:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:25 : [NTC] Ext=9.00 UExt=21.01 EExt=21.07
+UInt=22.12 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:39:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:26 : [NTC] Ext=9.00 UExt=21.03 EExt=21.07
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:27 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:28 : [NTC] Ext=9.00 UExt=21.06 EExt=21.07
+UInt=22.12 EInt=21.51
+[INFO   ] Wed 26 Nov 2025 06:39:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:29 : [NTC] Ext=9.00 UExt=21.06 EExt=21.01
+UInt=22.12 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:39:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:30 : [NTC] Ext=9.00 UExt=21.06 EExt=21.03
+UInt=22.12 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:39:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:31 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.19 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:39:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:32 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.16 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:39:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:33 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.15 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:39:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:34 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:35 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:36 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.21 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:39:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:37 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.18 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:39:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:38 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.16 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:39 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.22 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:40 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.18 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:41 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.16 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:42 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:39:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:43 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.14 EInt=21.24
+[INFO   ] Wed 26 Nov 2025 06:39:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:44 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.19 EInt=21.30
+[INFO   ] Wed 26 Nov 2025 06:39:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:45 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.16 EInt=21.34
+[INFO   ] Wed 26 Nov 2025 06:39:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:46 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.15 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:39:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:47 : [NTC] Ext=9.00 UExt=20.72 EExt=21.34
+UInt=22.21 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:39:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:48 : [NTC] Ext=9.00 UExt=20.85 EExt=21.25
+UInt=22.18 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:49 : [NTC] Ext=9.00 UExt=20.93 EExt=21.18
+UInt=22.16 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:50 : [NTC] Ext=9.00 UExt=20.98 EExt=21.14
+UInt=22.14 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:51 : [NTC] Ext=9.00 UExt=21.01 EExt=21.12
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:39:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:52 : [NTC] Ext=9.00 UExt=21.03 EExt=21.10
+UInt=22.13 EInt=21.30
+[INFO   ] Wed 26 Nov 2025 06:39:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:53 : [NTC] Ext=9.00 UExt=20.99 EExt=21.03
+UInt=22.13 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:39:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:54 : [NTC] Ext=9.00 UExt=21.02 EExt=20.98
+UInt=22.19 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:39:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:55 : [NTC] Ext=9.00 UExt=21.04 EExt=21.01
+UInt=22.17 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:39:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:56 : [NTC] Ext=9.00 UExt=21.05 EExt=20.96
+UInt=22.15 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:39:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:57 : [NTC] Ext=9.00 UExt=20.99 EExt=21.00
+UInt=22.14 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:39:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:58 : [NTC] Ext=9.00 UExt=21.02 EExt=21.03
+UInt=22.13 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:39:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:39:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:39:59 : [NTC] Ext=9.00 UExt=21.04 EExt=21.04
+UInt=22.13 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:40:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:00 : [NTC] Ext=9.00 UExt=21.05 EExt=21.05
+UInt=22.13 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:40:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:01 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:40:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:03 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.13
+[INFO   ] Wed 26 Nov 2025 06:40:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:04 : [NTC] Ext=9.00 UExt=21.06 EExt=21.07
+UInt=22.12 EInt=21.24
+[INFO   ] Wed 26 Nov 2025 06:40:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:05 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.05 EInt=21.30
+[INFO   ] Wed 26 Nov 2025 06:40:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:06 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.08 EInt=21.34
+[INFO   ] Wed 26 Nov 2025 06:40:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:07 : [NTC] Ext=9.00 UExt=21.00 EExt=21.03
+UInt=22.09 EInt=21.32
+[INFO   ] Wed 26 Nov 2025 06:40:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:08 : [NTC] Ext=9.00 UExt=21.02 EExt=21.05
+UInt=22.10 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:40:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:09 : [NTC] Ext=9.00 UExt=21.04 EExt=20.98
+UInt=22.11 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:40:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:10 : [NTC] Ext=9.00 UExt=21.05 EExt=21.02
+UInt=22.11 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:40:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:11 : [NTC] Ext=9.00 UExt=21.06 EExt=20.87
+UInt=22.16 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:40:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:12 : [NTC] Ext=9.00 UExt=21.06 EExt=20.94
+UInt=22.15 EInt=21.52
+[INFO   ] Wed 26 Nov 2025 06:40:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:13 : [NTC] Ext=9.00 UExt=20.95 EExt=20.99
+UInt=22.08 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:40:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:14 : [NTC] Ext=9.00 UExt=21.07 EExt=20.95
+UInt=22.15 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:40:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:15 : [NTC] Ext=9.00 UExt=21.07 EExt=20.99
+UInt=22.14 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:40:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:16 : [NTC] Ext=9.00 UExt=21.07 EExt=21.02
+UInt=22.13 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:40:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:17 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=22.13 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:40:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:18 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.13 EInt=21.50
+[INFO   ] Wed 26 Nov 2025 06:40:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:19 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.18 EInt=21.47
+[INFO   ] Wed 26 Nov 2025 06:40:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:20 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.16 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:40:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:21 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.14 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:40:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:22 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.14 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:40:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:23 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.13 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:40:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:24 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:25 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:26 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:27 : [NTC] Ext=9.00 UExt=21.14 EExt=21.05
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:28 : [NTC] Ext=9.00 UExt=21.11 EExt=21.05
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:29 : [NTC] Ext=9.00 UExt=21.24 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:30 : [NTC] Ext=9.00 UExt=21.18 EExt=21.06
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:31 : [NTC] Ext=9.00 UExt=21.14 EExt=21.07
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:32 : [NTC] Ext=9.00 UExt=21.11 EExt=21.07
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:33 : [NTC] Ext=9.00 UExt=21.10 EExt=21.07
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:34 : [NTC] Ext=9.00 UExt=21.03 EExt=21.01
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:35 : [NTC] Ext=9.00 UExt=21.05 EExt=21.03
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:36 : [NTC] Ext=9.00 UExt=21.05 EExt=21.05
+UInt=22.20 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:37 : [NTC] Ext=9.00 UExt=21.06 EExt=21.05
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:38 : [NTC] Ext=9.00 UExt=21.13 EExt=21.06
+UInt=22.15 EInt=21.66
+[INFO   ] Wed 26 Nov 2025 06:40:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:39 : [NTC] Ext=9.00 UExt=21.11 EExt=21.13
+UInt=22.14 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:40:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:40 : [NTC] Ext=9.00 UExt=21.10 EExt=21.04
+UInt=22.13 EInt=21.52
+[INFO   ] Wed 26 Nov 2025 06:40:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:41 : [NTC] Ext=9.00 UExt=21.09 EExt=21.05
+UInt=22.13 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:40:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:42 : [NTC] Ext=9.00 UExt=21.08 EExt=21.06
+UInt=22.20 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:40:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:43 : [NTC] Ext=9.00 UExt=21.13 EExt=21.06
+UInt=22.17 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:40:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:44 : [NTC] Ext=9.00 UExt=21.11 EExt=21.06
+UInt=22.15 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:40:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:45 : [NTC] Ext=9.00 UExt=21.10 EExt=21.07
+UInt=22.14 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:40:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:46 : [NTC] Ext=9.00 UExt=21.14 EExt=21.12
+UInt=22.13 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:40:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:47 : [NTC] Ext=9.00 UExt=21.18 EExt=21.10
+UInt=22.13 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:40:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:48 : [NTC] Ext=9.00 UExt=21.19 EExt=21.14
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:40:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:49 : [NTC] Ext=9.00 UExt=21.15 EExt=21.12
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:40:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:50 : [NTC] Ext=9.00 UExt=21.12 EExt=20.89
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:40:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:51 : [NTC] Ext=9.00 UExt=21.10 EExt=20.96
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:40:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:52 : [NTC] Ext=9.00 UExt=20.92 EExt=21.00
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:40:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:53 : [NTC] Ext=9.00 UExt=20.98 EExt=21.02
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:40:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:54 : [NTC] Ext=9.00 UExt=21.01 EExt=21.04
+UInt=22.12 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:40:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:55 : [NTC] Ext=9.00 UExt=21.03 EExt=20.99
+UInt=22.12 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:40:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:56 : [NTC] Ext=9.00 UExt=21.05 EExt=21.02
+UInt=22.12 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:40:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:58 : [NTC] Ext=9.00 UExt=21.05 EExt=21.04
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:40:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:40:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:40:59 : [NTC] Ext=9.00 UExt=21.06 EExt=21.05
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:41:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:00 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:41:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:01 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:41:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:02 : [NTC] Ext=9.00 UExt=21.00 EExt=21.06
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:41:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:03 : [NTC] Ext=9.00 UExt=21.25 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:04 : [NTC] Ext=9.00 UExt=21.18 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:05 : [NTC] Ext=9.00 UExt=21.14 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:06 : [NTC] Ext=9.00 UExt=21.54 EExt=21.12
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:07 : [NTC] Ext=9.00 UExt=21.37 EExt=21.11
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:08 : [NTC] Ext=9.00 UExt=21.26 EExt=21.02
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:09 : [NTC] Ext=9.00 UExt=21.19 EExt=21.04
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:10 : [NTC] Ext=9.00 UExt=21.15 EExt=21.05
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:11 : [NTC] Ext=9.00 UExt=21.18 EExt=21.06
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:12 : [NTC] Ext=9.00 UExt=21.14 EExt=21.06
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:13 : [NTC] Ext=9.00 UExt=21.11 EExt=21.06
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:14 : [NTC] Ext=9.00 UExt=21.10 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:15 : [NTC] Ext=9.00 UExt=21.09 EExt=21.03
+UInt=22.12 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:41:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:16 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.12 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:41:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:17 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.12 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:41:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:18 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:41:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:19 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:41:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:20 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:41:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:21 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:22 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.22 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:23 : [NTC] Ext=9.00 UExt=21.07 EExt=21.29
+UInt=21.80 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:24 : [NTC] Ext=9.00 UExt=21.07 EExt=21.21
+UInt=21.91 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:25 : [NTC] Ext=9.00 UExt=21.07 EExt=21.16
+UInt=21.99 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:26 : [NTC] Ext=9.00 UExt=21.01 EExt=21.06
+UInt=22.04 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:27 : [NTC] Ext=9.00 UExt=20.69 EExt=21.06
+UInt=22.07 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:28 : [NTC] Ext=9.00 UExt=20.82 EExt=21.07
+UInt=22.09 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:29 : [NTC] Ext=9.00 UExt=20.91 EExt=21.07
+UInt=22.10 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:41:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:30 : [NTC] Ext=9.00 UExt=20.97 EExt=21.01
+UInt=22.11 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:41:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:31 : [NTC] Ext=9.00 UExt=21.01 EExt=21.03
+UInt=22.11 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:41:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:32 : [NTC] Ext=9.00 UExt=21.18 EExt=21.05
+UInt=22.11 EInt=21.79
+[INFO   ] Wed 26 Nov 2025 06:41:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:33 : [NTC] Ext=9.00 UExt=21.14 EExt=21.05
+UInt=22.12 EInt=21.66
+[INFO   ] Wed 26 Nov 2025 06:41:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:34 : [NTC] Ext=9.00 UExt=21.19 EExt=21.06
+UInt=22.12 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:41:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:35 : [NTC] Ext=9.00 UExt=21.14 EExt=21.06
+UInt=22.12 EInt=21.52
+[INFO   ] Wed 26 Nov 2025 06:41:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:36 : [NTC] Ext=9.00 UExt=21.12 EExt=21.00
+UInt=22.05 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:41:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:37 : [NTC] Ext=9.00 UExt=21.10 EExt=21.02
+UInt=22.07 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:41:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:38 : [NTC] Ext=9.00 UExt=21.16 EExt=20.97
+UInt=22.09 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:41:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:39 : [NTC] Ext=9.00 UExt=21.13 EExt=21.01
+UInt=22.10 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:41:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:40 : [NTC] Ext=9.00 UExt=21.11 EExt=21.03
+UInt=22.11 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:41:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:41 : [NTC] Ext=9.00 UExt=21.09 EExt=21.04
+UInt=22.11 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:41:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:42 : [NTC] Ext=9.00 UExt=21.14 EExt=21.00
+UInt=22.12 EInt=21.52
+[INFO   ] Wed 26 Nov 2025 06:41:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:43 : [NTC] Ext=9.00 UExt=21.12 EExt=21.02
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:41:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:45 : [NTC] Ext=9.00 UExt=21.10 EExt=21.04
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:46 : [NTC] Ext=9.00 UExt=21.09 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:47 : [NTC] Ext=9.00 UExt=21.15 EExt=20.85
+UInt=22.12 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:41:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:48 : [NTC] Ext=9.00 UExt=21.12 EExt=20.93
+UInt=22.12 EInt=21.47
+[INFO   ] Wed 26 Nov 2025 06:41:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:49 : [NTC] Ext=9.00 UExt=21.10 EExt=21.00
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:41:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:50 : [NTC] Ext=9.00 UExt=21.09 EExt=20.95
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:41:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:51 : [NTC] Ext=9.00 UExt=21.08 EExt=21.00
+UInt=22.12 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:41:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:52 : [NTC] Ext=9.00 UExt=21.08 EExt=21.02
+UInt=22.12 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:41:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:53 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:41:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:54 : [NTC] Ext=9.00 UExt=21.30 EExt=21.01
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:41:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:55 : [NTC] Ext=9.00 UExt=21.22 EExt=21.03
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:41:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:56 : [NTC] Ext=9.00 UExt=21.16 EExt=21.05
+UInt=22.19 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:41:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:57 : [NTC] Ext=9.00 UExt=21.19 EExt=21.06
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:58 : [NTC] Ext=9.00 UExt=21.14 EExt=21.06
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:41:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:41:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:41:59 : [NTC] Ext=9.00 UExt=21.12 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:00 : [NTC] Ext=9.00 UExt=21.10 EExt=21.07
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:01 : [NTC] Ext=9.00 UExt=21.09 EExt=21.01
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:02 : [NTC] Ext=9.00 UExt=21.01 EExt=21.03
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:03 : [NTC] Ext=9.00 UExt=21.03 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:04 : [NTC] Ext=9.00 UExt=21.05 EExt=21.05
+UInt=22.12 EInt=21.28
+[INFO   ] Wed 26 Nov 2025 06:42:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:05 : [NTC] Ext=9.00 UExt=21.05 EExt=21.06
+UInt=22.12 EInt=21.33
+[INFO   ] Wed 26 Nov 2025 06:42:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:06 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:42:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:07 : [NTC] Ext=9.00 UExt=21.06 EExt=20.90
+UInt=22.12 EInt=21.26
+[INFO   ] Wed 26 Nov 2025 06:42:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:08 : [NTC] Ext=9.00 UExt=21.07 EExt=20.96
+UInt=22.12 EInt=21.26
+[INFO   ] Wed 26 Nov 2025 06:42:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:09 : [NTC] Ext=9.00 UExt=21.07 EExt=21.00
+UInt=22.12 EInt=21.32
+[INFO   ] Wed 26 Nov 2025 06:42:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:10 : [NTC] Ext=9.00 UExt=21.07 EExt=21.02
+UInt=22.06 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:42:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:12 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.09 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:42:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:13 : [NTC] Ext=9.00 UExt=21.28 EExt=21.21
+UInt=22.10 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:42:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:14 : [NTC] Ext=9.00 UExt=21.18 EExt=21.10
+UInt=22.11 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:15 : [NTC] Ext=9.00 UExt=21.25 EExt=21.02
+UInt=22.11 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:16 : [NTC] Ext=9.00 UExt=21.19 EExt=21.04
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:17 : [NTC] Ext=9.00 UExt=21.14 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:18 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:19 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:20 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:21 : [NTC] Ext=9.00 UExt=21.01 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:22 : [NTC] Ext=9.00 UExt=21.03 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:23 : [NTC] Ext=9.00 UExt=20.93 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:24 : [NTC] Ext=9.00 UExt=20.98 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:25 : [NTC] Ext=9.00 UExt=21.01 EExt=21.07
+UInt=22.12 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:42:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:26 : [NTC] Ext=9.00 UExt=21.03 EExt=21.07
+UInt=22.12 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:42:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:27 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:42:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:28 : [NTC] Ext=9.00 UExt=21.06 EExt=21.07
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:42:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:29 : [NTC] Ext=9.00 UExt=21.06 EExt=21.01
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:30 : [NTC] Ext=9.00 UExt=21.06 EExt=21.03
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:31 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:42:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:32 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:33 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:34 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:35 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.06 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:36 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.08 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:37 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:38 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.16 EInt=21.47
+[INFO   ] Wed 26 Nov 2025 06:42:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:39 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.15 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:42:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:40 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.19 EInt=21.65
+[INFO   ] Wed 26 Nov 2025 06:42:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:41 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.17 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:42:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:42 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.15 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:42:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:43 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.14 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:42:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:44 : [NTC] Ext=9.00 UExt=21.07 EExt=21.00
+UInt=22.13 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:42:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:45 : [NTC] Ext=9.00 UExt=21.07 EExt=21.19
+UInt=22.13 EInt=21.32
+[INFO   ] Wed 26 Nov 2025 06:42:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:46 : [NTC] Ext=9.00 UExt=21.07 EExt=21.15
+UInt=22.12 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:42:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:47 : [NTC] Ext=9.00 UExt=21.07 EExt=20.99
+UInt=22.12 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:42:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:48 : [NTC] Ext=9.00 UExt=21.01 EExt=21.02
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:42:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:49 : [NTC] Ext=9.00 UExt=21.03 EExt=21.04
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:42:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:50 : [NTC] Ext=9.00 UExt=21.12 EExt=20.98
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:42:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:52 : [NTC] Ext=9.00 UExt=21.10 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:53 : [NTC] Ext=9.00 UExt=21.09 EExt=20.98
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:54 : [NTC] Ext=9.00 UExt=21.08 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:55 : [NTC] Ext=9.00 UExt=21.08 EExt=21.03
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:56 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:57 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:58 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:42:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:42:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:42:59 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.06 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:00 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.08 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:01 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:02 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:03 : [NTC] Ext=9.00 UExt=21.01 EExt=21.07
+UInt=22.11 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:04 : [NTC] Ext=9.00 UExt=20.96 EExt=21.07
+UInt=22.17 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:05 : [NTC] Ext=9.00 UExt=21.00 EExt=21.07
+UInt=22.15 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:06 : [NTC] Ext=9.00 UExt=20.97 EExt=21.29
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:07 : [NTC] Ext=9.00 UExt=21.01 EExt=21.21
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:08 : [NTC] Ext=9.00 UExt=21.03 EExt=21.16
+UInt=22.13 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:43:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:09 : [NTC] Ext=9.00 UExt=21.04 EExt=21.13
+UInt=22.13 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:43:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:10 : [NTC] Ext=9.00 UExt=20.99 EExt=21.10
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:43:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:11 : [NTC] Ext=9.00 UExt=21.09 EExt=21.09
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:43:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:12 : [NTC] Ext=9.00 UExt=21.02 EExt=21.08
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:43:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:13 : [NTC] Ext=9.00 UExt=21.04 EExt=21.08
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:43:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:14 : [NTC] Ext=9.00 UExt=21.00 EExt=21.07
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:15 : [NTC] Ext=9.00 UExt=21.02 EExt=21.07
+UInt=22.33 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:16 : [NTC] Ext=9.00 UExt=21.04 EExt=21.07
+UInt=22.26 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:17 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.21 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:18 : [NTC] Ext=9.00 UExt=20.95 EExt=21.07
+UInt=22.18 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:19 : [NTC] Ext=9.00 UExt=20.99 EExt=21.07
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:20 : [NTC] Ext=9.00 UExt=21.02 EExt=21.07
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:21 : [NTC] Ext=9.00 UExt=21.04 EExt=21.00
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:22 : [NTC] Ext=9.00 UExt=21.05 EExt=21.03
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:23 : [NTC] Ext=9.00 UExt=21.06 EExt=21.04
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:24 : [NTC] Ext=9.00 UExt=21.13 EExt=21.11
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:25 : [NTC] Ext=9.00 UExt=21.11 EExt=21.09
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:26 : [NTC] Ext=9.00 UExt=21.09 EExt=21.09
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:27 : [NTC] Ext=9.00 UExt=21.14 EExt=20.97
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:28 : [NTC] Ext=9.00 UExt=21.12 EExt=20.93
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:29 : [NTC] Ext=9.00 UExt=21.10 EExt=20.98
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:30 : [NTC] Ext=9.00 UExt=21.09 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:31 : [NTC] Ext=9.00 UExt=21.08 EExt=21.03
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:32 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:33 : [NTC] Ext=9.00 UExt=21.07 EExt=20.99
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:34 : [NTC] Ext=9.00 UExt=21.07 EExt=21.02
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:35 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:37 : [NTC] Ext=9.00 UExt=21.35 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:38 : [NTC] Ext=9.00 UExt=21.21 EExt=21.04
+UInt=22.19 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:39 : [NTC] Ext=9.00 UExt=21.16 EExt=21.05
+UInt=22.16 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:40 : [NTC] Ext=9.00 UExt=20.98 EExt=21.06
+UInt=22.14 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:41 : [NTC] Ext=9.00 UExt=21.01 EExt=21.06
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:42 : [NTC] Ext=9.00 UExt=21.03 EExt=21.07
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:43 : [NTC] Ext=9.00 UExt=21.05 EExt=21.07
+UInt=22.13 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:43:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:44 : [NTC] Ext=9.00 UExt=21.06 EExt=21.07
+UInt=22.12 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:43:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:45 : [NTC] Ext=9.00 UExt=21.13 EExt=21.00
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:43:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:46 : [NTC] Ext=9.00 UExt=21.11 EExt=20.64
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:43:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:47 : [NTC] Ext=9.00 UExt=21.09 EExt=20.79
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:43:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:48 : [NTC] Ext=9.00 UExt=21.09 EExt=20.89
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:43:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:49 : [NTC] Ext=9.00 UExt=21.08 EExt=20.96
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:43:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:50 : [NTC] Ext=9.00 UExt=21.08 EExt=21.00
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:51 : [NTC] Ext=9.00 UExt=21.07 EExt=20.95
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:52 : [NTC] Ext=9.00 UExt=21.07 EExt=21.00
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:53 : [NTC] Ext=9.00 UExt=21.07 EExt=20.97
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:43:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:54 : [NTC] Ext=9.00 UExt=21.07 EExt=21.00
+UInt=22.18 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:43:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:55 : [NTC] Ext=9.00 UExt=20.93 EExt=21.03
+UInt=21.95 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:43:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:56 : [NTC] Ext=9.00 UExt=20.62 EExt=21.04
+UInt=22.01 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:43:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:58 : [NTC] Ext=9.00 UExt=20.78 EExt=21.05
+UInt=22.05 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:43:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:43:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:43:59 : [NTC] Ext=9.00 UExt=20.89 EExt=21.06
+UInt=22.07 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:00 : [NTC] Ext=9.00 UExt=21.02 EExt=20.99
+UInt=22.09 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:01 : [NTC] Ext=9.00 UExt=21.04 EExt=21.02
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:02 : [NTC] Ext=9.00 UExt=21.05 EExt=21.04
+UInt=22.11 EInt=21.49
+[INFO   ] Wed 26 Nov 2025 06:44:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:03 : [NTC] Ext=9.00 UExt=21.06 EExt=20.99
+UInt=22.11 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:44:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:04 : [NTC] Ext=9.00 UExt=21.06 EExt=21.02
+UInt=22.12 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:44:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:05 : [NTC] Ext=9.00 UExt=21.06 EExt=21.15
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:44:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:06 : [NTC] Ext=9.00 UExt=21.07 EExt=21.12
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:07 : [NTC] Ext=9.00 UExt=21.07 EExt=21.10
+UInt=22.12 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:44:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:08 : [NTC] Ext=9.00 UExt=21.08 EExt=21.09
+UInt=22.12 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:44:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:09 : [NTC] Ext=9.00 UExt=21.08 EExt=21.08
+UInt=22.12 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:44:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:10 : [NTC] Ext=9.00 UExt=21.07 EExt=21.08
+UInt=22.12 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:44:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:11 : [NTC] Ext=9.00 UExt=21.07 EExt=21.02
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:12 : [NTC] Ext=9.00 UExt=21.14 EExt=20.97
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:13 : [NTC] Ext=9.00 UExt=21.12 EExt=21.00
+UInt=22.12 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:14 : [NTC] Ext=9.00 UExt=21.10 EExt=21.03
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:15 : [NTC] Ext=9.00 UExt=21.08 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:16 : [NTC] Ext=9.00 UExt=21.08 EExt=20.99
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:17 : [NTC] Ext=9.00 UExt=21.08 EExt=21.02
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:18 : [NTC] Ext=9.00 UExt=21.07 EExt=20.97
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:19 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.12 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:44:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:20 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.18 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:44:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:21 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.16 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:44:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:22 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.14 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:44:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:23 : [NTC] Ext=9.00 UExt=21.07 EExt=21.07
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:44:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:24 : [NTC] Ext=9.00 UExt=21.07 EExt=21.00
+UInt=22.13 EInt=21.36
+[INFO   ] Wed 26 Nov 2025 06:44:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:25 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=21.78 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:44:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:26 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=21.90 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:44:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:27 : [NTC] Ext=9.00 UExt=21.07 EExt=20.93
+UInt=21.98 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:44:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:28 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.03 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:44:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:29 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.06 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:30 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.08 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:31 : [NTC] Ext=9.00 UExt=21.07 EExt=20.94
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:32 : [NTC] Ext=9.00 UExt=21.00 EExt=20.32
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:33 : [NTC] Ext=9.00 UExt=21.03 EExt=20.08
+UInt=22.11 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:34 : [NTC] Ext=9.00 UExt=21.04 EExt=20.43
+UInt=22.11 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:35 : [NTC] Ext=9.00 UExt=20.91 EExt=20.66
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:36 : [NTC] Ext=9.00 UExt=20.97 EExt=20.74
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:37 : [NTC] Ext=9.00 UExt=21.01 EExt=20.86
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:38 : [NTC] Ext=9.00 UExt=21.03 EExt=20.93
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:39 : [NTC] Ext=9.00 UExt=21.04 EExt=20.98
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:40 : [NTC] Ext=9.00 UExt=21.05 EExt=20.94
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:41 : [NTC] Ext=9.00 UExt=21.06 EExt=20.99
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:42 : [NTC] Ext=9.00 UExt=21.06 EExt=21.02
+UInt=22.12 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:44:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:43 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:43 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=22.18 EInt=21.32
+[INFO   ] Wed 26 Nov 2025 06:44:44 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:44 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.16 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:44:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:45 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.14 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:44:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:46 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.13 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:44:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:47 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.13 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:44:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:48 : [NTC] Ext=9.00 UExt=21.07 EExt=20.98
+UInt=22.12 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:44:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:49 : [NTC] Ext=9.00 UExt=21.07 EExt=21.01
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:44:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:50 : [NTC] Ext=9.00 UExt=21.07 EExt=21.03
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:52 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:53 : [NTC] Ext=9.00 UExt=20.93 EExt=21.05
+UInt=22.12 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:44:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:54 : [NTC] Ext=9.00 UExt=20.98 EExt=21.06
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:55 : [NTC] Ext=9.00 UExt=21.01 EExt=20.85
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:56 : [NTC] Ext=9.00 UExt=21.03 EExt=20.93
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:57 : [NTC] Ext=9.00 UExt=21.05 EExt=20.98
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:58 : [NTC] Ext=9.00 UExt=21.05 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:44:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:44:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:44:59 : [NTC] Ext=9.00 UExt=21.06 EExt=21.03
+UInt=22.12 EInt=21.35
+[INFO   ] Wed 26 Nov 2025 06:45:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:00 : [NTC] Ext=9.00 UExt=21.19 EExt=21.05
+UInt=22.12 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:45:01 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:01 : [NTC] Ext=9.00 UExt=21.57 EExt=21.05
+UInt=22.18 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:45:02 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:02 : [NTC] Ext=9.00 UExt=21.39 EExt=21.06
+UInt=22.16 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:45:03 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:03 : [NTC] Ext=9.00 UExt=21.27 EExt=21.06
+UInt=22.14 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:45:04 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:04 : [NTC] Ext=9.00 UExt=21.27 EExt=21.07
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:45:05 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:05 : [NTC] Ext=9.00 UExt=21.20 EExt=21.07
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:45:06 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:06 : [NTC] Ext=9.00 UExt=21.15 EExt=21.00
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:07 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:07 : [NTC] Ext=9.00 UExt=21.07 EExt=21.02
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:08 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:08 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:09 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:09 : [NTC] Ext=9.00 UExt=21.01 EExt=21.00
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:10 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:10 : [NTC] Ext=9.00 UExt=21.03 EExt=21.02
+UInt=22.12 EInt=20.93
+[INFO   ] Wed 26 Nov 2025 06:45:11 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:11 : [NTC] Ext=9.00 UExt=21.05 EExt=21.04
+UInt=22.12 EInt=21.11
+[INFO   ] Wed 26 Nov 2025 06:45:12 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:12 : [NTC] Ext=9.00 UExt=21.05 EExt=21.05
+UInt=22.12 EInt=21.22
+[INFO   ] Wed 26 Nov 2025 06:45:13 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:13 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.29
+[INFO   ] Wed 26 Nov 2025 06:45:14 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:14 : [NTC] Ext=9.00 UExt=21.06 EExt=21.06
+UInt=22.12 EInt=21.34
+[INFO   ] Wed 26 Nov 2025 06:45:15 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:15 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.12 EInt=21.37
+[INFO   ] Wed 26 Nov 2025 06:45:16 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:16 : [NTC] Ext=9.00 UExt=21.40 EExt=21.01
+UInt=22.33 EInt=21.39
+[INFO   ] Wed 26 Nov 2025 06:45:17 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:17 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:17 : [NTC] Ext=9.00 UExt=21.28 EExt=21.03
+UInt=22.26 EInt=21.47
+[INFO   ] Wed 26 Nov 2025 06:45:18 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:18 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:18 : [NTC] Ext=9.00 UExt=21.21 EExt=21.05
+UInt=22.26 EInt=21.45
+[INFO   ] Wed 26 Nov 2025 06:45:19 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:19 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:19 : [NTC] Ext=9.00 UExt=21.16 EExt=21.05
+UInt=22.21 EInt=21.38
+[INFO   ] Wed 26 Nov 2025 06:45:20 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:20 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:20 : [NTC] Ext=9.00 UExt=21.62 EExt=20.99
+UInt=22.18 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:45:21 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:21 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:21 : [NTC] Ext=9.00 UExt=21.42 EExt=21.02
+UInt=22.16 EInt=21.40
+[INFO   ] Wed 26 Nov 2025 06:45:22 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:22 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:22 : [NTC] Ext=9.00 UExt=21.25 EExt=20.99
+UInt=22.14 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:45:23 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:23 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:23 : [NTC] Ext=9.00 UExt=21.18 EExt=21.02
+UInt=22.13 EInt=21.41
+[INFO   ] Wed 26 Nov 2025 06:45:24 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:24 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:24 : [NTC] Ext=9.00 UExt=21.14 EExt=21.04
+UInt=22.13 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:25 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:25 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:25 : [NTC] Ext=9.00 UExt=21.12 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:26 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:26 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:26 : [NTC] Ext=9.00 UExt=21.03 EExt=21.00
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:27 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:27 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:27 : [NTC] Ext=9.00 UExt=21.04 EExt=21.03
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:28 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:28 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:28 : [NTC] Ext=9.00 UExt=21.05 EExt=21.11
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:29 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:29 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:29 : [NTC] Ext=9.00 UExt=21.06 EExt=21.10
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:30 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:30 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:30 : [NTC] Ext=9.00 UExt=20.99 EExt=21.09
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:31 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:31 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:31 : [NTC] Ext=9.00 UExt=21.02 EExt=21.08
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:32 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:32 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:32 : [NTC] Ext=9.00 UExt=21.04 EExt=21.08
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:33 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:33 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:33 : [NTC] Ext=9.00 UExt=21.05 EExt=20.91
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:34 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:34 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:34 : [NTC] Ext=9.00 UExt=21.06 EExt=20.97
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:35 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:35 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:35 : [NTC] Ext=9.00 UExt=21.01 EExt=21.00
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:36 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:36 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:36 : [NTC] Ext=9.00 UExt=20.99 EExt=20.89
+UInt=22.12 EInt=21.56
+[INFO   ] Wed 26 Nov 2025 06:45:37 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:37 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:37 : [NTC] Ext=9.00 UExt=21.02 EExt=20.95
+UInt=22.12 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:45:38 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:38 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:38 : [NTC] Ext=9.00 UExt=21.04 EExt=21.00
+UInt=22.12 EInt=21.57
+[INFO   ] Wed 26 Nov 2025 06:45:39 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:39 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:39 : [NTC] Ext=9.00 UExt=21.05 EExt=21.02
+UInt=22.12 EInt=21.52
+[INFO   ] Wed 26 Nov 2025 06:45:40 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:40 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:40 : [NTC] Ext=9.00 UExt=21.06 EExt=21.10
+UInt=22.12 EInt=21.48
+[INFO   ] Wed 26 Nov 2025 06:45:41 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:41 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:41 : [NTC] Ext=9.00 UExt=21.01 EExt=21.09
+UInt=22.12 EInt=21.46
+[INFO   ] Wed 26 Nov 2025 06:45:42 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:42 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:42 : [NTC] Ext=9.00 UExt=21.03 EExt=21.08
+UInt=21.77 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:45:43 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:44 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:44 : [NTC] Ext=9.00 UExt=21.04 EExt=20.96
+UInt=21.90 EInt=21.44
+[INFO   ] Wed 26 Nov 2025 06:45:45 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:45 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:45 : [NTC] Ext=9.00 UExt=21.05 EExt=21.00
+UInt=21.98 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:45:46 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:46 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:46 : [NTC] Ext=9.00 UExt=21.06 EExt=21.03
+UInt=22.03 EInt=21.43
+[INFO   ] Wed 26 Nov 2025 06:45:47 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:47 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:47 : [NTC] Ext=9.00 UExt=21.06 EExt=21.04
+UInt=22.06 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:48 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:48 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:48 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.08 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:49 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:49 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:49 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:50 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:50 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:50 : [NTC] Ext=9.00 UExt=21.07 EExt=21.06
+UInt=22.10 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:51 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:51 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:51 : [NTC] Ext=9.00 UExt=21.12 EExt=21.00
+UInt=22.11 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:52 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:52 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:52 : [NTC] Ext=9.00 UExt=21.10 EExt=21.09
+UInt=22.11 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:53 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:53 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:53 : [NTC] Ext=9.00 UExt=21.09 EExt=21.08
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:54 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:54 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:54 : [NTC] Ext=9.00 UExt=21.08 EExt=21.01
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:55 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:55 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:55 : [NTC] Ext=9.00 UExt=21.08 EExt=21.03
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:56 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:56 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:56 : [NTC] Ext=9.00 UExt=21.07 EExt=21.04
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:57 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:57 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:57 : [NTC] Ext=9.00 UExt=21.07 EExt=21.05
+UInt=22.12 EInt=21.42
+[INFO   ] Wed 26 Nov 2025 06:45:58 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:58 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:58 : [NTC] Ext=9.00 UExt=21.28 EExt=20.92
+UInt=22.12 EInt=21.63
+[INFO   ] Wed 26 Nov 2025 06:45:59 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:45:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:45:59 : [NTC] Ext=9.00 UExt=21.21 EExt=20.92
+UInt=22.12 EInt=21.55
+[INFO   ] Wed 26 Nov 2025 06:46:00 : [CHAUFFAGE] Blocage Chauffage
+[INFO   ] Wed 26 Nov 2025 06:46:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 06:46:00 : [NTC] Ext=9.00 UExt=21.16 EExt=20.97
+UInt=22.12 EInt=21.51
+[INFO   ] Wed 26 Nov 2025 06:46:01 : [PACController] Tous les relais arrêtés
+[INFO   ] Wed 26 Nov 2025 06:46:01 : [PACController] Fin du thread de contrôle.
+[INFO   ] Wed 26 Nov 2025 06:46:01 : [PACController] PAC arrêt complet
+[INFO   ] Wed 26 Nov 2025 06:46:01 : [SYSTEM] Arrêt terminé, sortie du programme
+[INFO   ] Wed 26 Nov 2025 06:46:01 : [PACController] PAC arrêt complet
+[INFO   ] Wed 26 Nov 2025 20:30:58 : Démarrage du monitoring DS18B20...
+[INFO   ] Wed 26 Nov 2025 20:30:58 : [PACController] démarré.
+[ERROR  ] Wed 26 Nov 2025 20:30:58 : [SECURITE] Sonde défectueuse détectée, arrêt immédiat de la PAC !
+[INFO   ] Wed 26 Nov 2025 20:30:58 : [PACController] Tous les relais arrêtés
+[INFO   ] Wed 26 Nov 2025 20:30:59 : [SECURITE] Toutes les sondes OK, reprise de la PAC.
+[INFO   ] Wed 26 Nov 2025 20:30:59 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:30:59 : [NTC] Ext=9.00 UExt=22.92 EExt=22.12
+UInt=21.77 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:31:00 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:00 : [NTC] Ext=9.00 UExt=22.76 EExt=22.23
+UInt=21.77 EInt=22.42
+[INFO   ] Wed 26 Nov 2025 20:31:01 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:01 : [NTC] Ext=9.00 UExt=22.66 EExt=22.19
+UInt=21.77 EInt=22.44
+[INFO   ] Wed 26 Nov 2025 20:31:02 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:02 : [NTC] Ext=9.00 UExt=22.59 EExt=22.24
+UInt=21.77 EInt=22.45
+[INFO   ] Wed 26 Nov 2025 20:31:03 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:03 : [NTC] Ext=9.00 UExt=22.66 EExt=22.19
+UInt=21.77 EInt=22.46
+[INFO   ] Wed 26 Nov 2025 20:31:04 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:04 : [NTC] Ext=9.00 UExt=22.59 EExt=22.17
+UInt=21.77 EInt=22.41
+[INFO   ] Wed 26 Nov 2025 20:31:05 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:05 : [NTC] Ext=9.00 UExt=22.55 EExt=22.15
+UInt=21.77 EInt=22.43
+[INFO   ] Wed 26 Nov 2025 20:31:06 : [PACController] Chauffage/Froid arrêtés (ETE/HIVER maintenu)
+[INFO   ] Wed 26 Nov 2025 20:31:06 : [PACController] PAC mise en pause
+[INFO   ] Wed 26 Nov 2025 20:31:06 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:06 : [NTC] Ext=9.00 UExt=22.52 EExt=22.20
+UInt=21.77 EInt=22.37
+[INFO   ] Wed 26 Nov 2025 20:31:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:07 : [NTC] Ext=9.00 UExt=22.50 EExt=22.17
+UInt=21.77 EInt=22.34
+[INFO   ] Wed 26 Nov 2025 20:31:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:08 : [NTC] Ext=9.00 UExt=22.55 EExt=22.22
+UInt=21.63 EInt=22.32
+[INFO   ] Wed 26 Nov 2025 20:31:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:31:09 : [NTC] Ext=9.00 UExt=22.46 EExt=22.18
+UInt=21.68 EInt=22.37
+[INFO   ] Wed 26 Nov 2025 20:31:10 : [PACController] Tous les relais arrêtés
+[INFO   ] Wed 26 Nov 2025 20:31:10 : [PACController] Fin du thread de contrôle.
+[INFO   ] Wed 26 Nov 2025 20:31:10 : [PACController] PAC arrêt complet
+[INFO   ] Wed 26 Nov 2025 20:31:11 : [SYSTEM] Arrêt terminé, sortie du programme
+[INFO   ] Wed 26 Nov 2025 20:31:11 : [PACController] PAC arrêt complet
+[INFO   ] Wed 26 Nov 2025 20:55:06 : Démarrage du monitoring DS18B20...
+[INFO   ] Wed 26 Nov 2025 20:55:06 : [PACController] démarré.
+[ERROR  ] Wed 26 Nov 2025 20:55:06 : [SECURITE] Sonde défectueuse détectée, arrêt immédiat de la PAC !
+[INFO   ] Wed 26 Nov 2025 20:55:06 : [PACController] Tous les relais arrêtés
+[INFO   ] Wed 26 Nov 2025 20:55:07 : [SECURITE] Toutes les sondes OK, reprise de la PAC.
+[INFO   ] Wed 26 Nov 2025 20:55:07 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:07 : [NTC] Ext=9.00 UExt=22.54 EExt=22.47
+UInt=22.12 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:55:08 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:08 : [NTC] Ext=9.00 UExt=22.52 EExt=22.47
+UInt=22.12 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:55:09 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:09 : [NTC] Ext=9.00 UExt=22.50 EExt=22.54
+UInt=22.12 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:55:10 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:10 : [NTC] Ext=9.00 UExt=22.49 EExt=22.52
+UInt=22.12 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:55:10 : [PACController] Chauffage/Froid arrêtés (ETE/HIVER maintenu)
+[INFO   ] Wed 26 Nov 2025 20:55:10 : [PACController] PAC mise en pause
+[INFO   ] Wed 26 Nov 2025 20:55:11 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:11 : [NTC] Ext=9.00 UExt=22.48 EExt=22.50
+UInt=22.12 EInt=22.47
+[INFO   ] Wed 26 Nov 2025 20:55:12 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:12 : [NTC] Ext=9.00 UExt=22.48 EExt=22.49
+UInt=22.12 EInt=22.33
+[INFO   ] Wed 26 Nov 2025 20:55:13 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:13 : [NTC] Ext=9.00 UExt=22.53 EExt=22.48
+UInt=22.12 EInt=22.38
+[INFO   ] Wed 26 Nov 2025 20:55:14 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:14 : [NTC] Ext=9.00 UExt=22.51 EExt=22.48
+UInt=22.12 EInt=22.41
+[INFO   ] Wed 26 Nov 2025 20:55:15 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:15 : [NTC] Ext=9.00 UExt=22.50 EExt=22.48
+UInt=22.12 EInt=22.43
+[INFO   ] Wed 26 Nov 2025 20:55:16 : [PAC] Mode=MODE_CHAUFFAGE
+[INFO   ] Wed 26 Nov 2025 20:55:16 : [NTC] Ext=9.00 UExt=22.49 EExt=22.47
+UInt=22.12 EInt=22.45
+[INFO   ] Wed 26 Nov 2025 20:55:17 : [PACController] Tous les relais arrêtés
+[INFO   ] Wed 26 Nov 2025 20:55:17 : [PACController] Fin du thread de contrôle.
+[INFO   ] Wed 26 Nov 2025 20:55:17 : [PACController] PAC arrêt complet
+[INFO   ] Wed 26 Nov 2025 20:55:17 : [SYSTEM] Arrêt terminé, sortie du programme
+[INFO   ] Wed 26 Nov 2025 20:55:17 : [PACController] PAC arrêt complet

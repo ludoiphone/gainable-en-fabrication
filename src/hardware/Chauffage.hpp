@@ -36,6 +36,8 @@ private:
 
     Consignes* m_consignes;
     Temporisations* m_tempos;
+    
+    std::atomic<bool> m_blocageChauffage{false};
 
     std::atomic<bool> m_ventExtEnMarche;
     std::atomic<bool> m_vitesseVentExtEnMarche;

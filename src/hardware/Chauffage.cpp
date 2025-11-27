@@ -24,7 +24,15 @@ Chauffage::Chauffage(Logger& logger, Consignes* consignes, Temporisations* tempo
 // ================== UPDATE PRINCIPAL ==================
 void Chauffage::update(double tempUExt, double tempEExt, double tempUInt, double tempEInt) {
     double hystBlocChauf = 0.2;
-    bool blocageChauffage = (tempUExt >= m_consignes->get("ConsigneBlocageChauffage") + hystBlocChauf);
+    double consigneBlocage = m_consignes->get("ConsigneBlocageChauffage");
+    
+    if (!m_blocageChauffage.load() && tempUExt >= consigneBlocage + hystBlocChauf) {
+        m_blocageChauffage.store(true);
+    } else if (m_blocageChauffage.load() && tempUExt <= consigneBlocage - hystBlocChauf) {
+        m_blocageChauffage.store(false);
+    }
+
+    bool blocageChauffage = m_blocageChauffage.load();
     
     gestionVentilateurExterieur(tempUExt, blocageChauffage);
     gestionCompresseur(tempUExt, tempEExt, blocageChauffage);
