@@ -1,4 +1,4 @@
-#include "appwindow.hpp"
+#include "AppWindow.hpp"
 #include "ui/MainWindow.hpp"
 #include "ui/affichecons.hpp"
 #include "ui/modifcons.hpp"
