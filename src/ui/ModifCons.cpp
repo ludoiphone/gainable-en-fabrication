@@ -1,4 +1,4 @@
-#include "modifcons.hpp"
+#include "ModifCons.hpp"
 
 #include <QLabel>
 #include <QPushButton>
