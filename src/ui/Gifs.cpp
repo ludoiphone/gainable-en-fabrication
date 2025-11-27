@@ -8,6 +8,30 @@ Gifs::Gifs(PacController *pac, QWidget *parent)
     m_timer = new QTimer(this);
 }
 
+Gifs::~Gifs()
+{
+    // Arrêter et supprimer tous les movies
+    auto movies = { m_ventExtMovie, m_ventIntMovie, m_vitesseVent1MovieExt, m_vitesseVent1MovieInt,
+                    m_vitesseVent2Movie, m_vitesseVent4Movie, m_compresseurFroidMovie,
+                    m_compresseurChauffageMovie, m_degivrageMovie, m_egouttageMovie };
+
+    for (QMovie* movie : movies) {
+        if (movie) {
+            movie->stop();
+            delete movie;
+        }
+    }
+
+    // Les labels seront détruits par Qt si parent défini, mais on peut les delete explicitement
+    auto labels = { m_ventExtLabel, m_ventIntLabel, m_vitesseVent1LabelExt, m_vitesseVent1LabelInt,
+                    m_vitesseVent2Label, m_vitesseVent4Label, m_compresseurFroidLabel,
+                    m_compresseurChauffageLabel, m_degivrageLabel, m_egouttageLabel };
+
+    for (QLabel* label : labels) {
+        if (label) delete label;
+    }
+}
+
 void Gifs::setup()
 {
     if (!parentWidget()) return;
