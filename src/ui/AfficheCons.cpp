@@ -1,4 +1,4 @@
-#include "affichecons.hpp"
+#include "AfficheCons.hpp"
 
 #include <QTimer>
 #include <QLabel>
