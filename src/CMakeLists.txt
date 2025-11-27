@@ -14,13 +14,12 @@ set(SOURCES
     logic/newsfetcher.cpp
     core/PacController.cpp
     ui/MainWindow.cpp
-        ui/MainWindow_DateTime.cpp
-        ui/MainWindow_News.cpp
-        ui/MainWindow_Connections.cpp
-        ui/MainWindow_Temperature.cpp
-        ui/MainWindow_PacControl.cpp
-        ui/MainWindow_Gifs.cpp
-        ui/MainWindow_Photos.cpp
+    ui/DateTime.cpp
+    ui/NewsBanner.cpp
+    ui/TemperatureWidget.cpp
+    ui/PacControl.cpp
+    ui/Gifs.cpp
+    ui/Photos.cpp
     ui/appwindow.cpp
     ui/affichecons.cpp
     ui/modifcons.cpp
@@ -39,6 +38,12 @@ set(HEADERS
     logic/newsfetcher.hpp
     core/PacController.hpp
     ui/MainWindow.hpp
+    ui/DateTime.cpp
+    ui/NewsBanner.cpp
+    ui/TemperatureWidget.cpp
+    ui/PacControl.cpp
+    ui/Gifs.cpp
+    ui/Photos.cpp
     ui/appwindow.hpp
     ui/affichecons.hpp
     ui/modifcons.hpp
