@@ -11,7 +11,6 @@ set(SOURCES
     hardware/Froid.cpp
     logic/Consignes.cpp
     logic/Temporisations.cpp
-    logic/newsfetcher.cpp
     core/PacController.cpp
     ui/MainWindow.cpp
     ui/DateTime.cpp
@@ -35,7 +34,6 @@ set(HEADERS
     hardware/Froid.hpp
     logic/Consignes.hpp
     logic/Temporisations.hpp
-    logic/newsfetcher.hpp
     core/PacController.hpp
     ui/MainWindow.hpp
     ui/DateTime.hpp
