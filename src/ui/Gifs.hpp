@@ -10,6 +10,7 @@ class Gifs : public QWidget
     Q_OBJECT
 public:
     explicit Gifs(PacController *pac, QWidget *parent = nullptr);
+    ~Gifs();
 
     void setup();      // initialisation des GIFs
     void startTimer(); // démarre le timer interne de mise à jour
