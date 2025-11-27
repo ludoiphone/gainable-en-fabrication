@@ -2,11 +2,10 @@
 #include <QWidget>
 #include <QLabel>
 #include <QScrollArea>
-#include <QThread>
 #include <QTimer>
 #include <QStringList>
-
-class NewsFetcher;
+#include <QNetworkAccessManager>
+#include <QNetworkReply>
 
 class NewsBanner : public QWidget
 {
@@ -14,7 +13,7 @@ class NewsBanner : public QWidget
 
 public:
     explicit NewsBanner(QWidget *parent = nullptr);
-    ~NewsBanner();
+    ~NewsBanner() override;
 
 private:
     // === UI ===
@@ -25,12 +24,12 @@ private:
     QWidget *m_ccpContainer;
 
     // === Timers ===
-    QTimer *m_newsTimer;
-    QTimer *m_scrollTimer;
+    QTimer *m_newsTimer;    // passage à la news suivante
+    QTimer *m_scrollTimer;  // scroll texte long
+    QTimer *m_fetchTimer;   // fetch RSS
 
-    // === Thread ===
-    QThread *m_newsThread;
-    NewsFetcher *m_newsFetcher;
+    // === Network ===
+    QNetworkAccessManager *m_manager;
 
     // === Données ===
     QStringList m_newsCache;
@@ -41,10 +40,11 @@ private:
 
     // === Méthodes internes ===
     void setupUI();
-    void startNewsThread();
+    void fetchNews();
     void updateNewsLabel(const QString &news);
 
 private slots:
-    void onNewsReceived(QStringList list);
+    void onNewsReply(QNetworkReply *reply);
+    void handleNextNews();
+    void handleScrollStep();
 };
-
