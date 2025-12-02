@@ -3,12 +3,11 @@
 
 using namespace std::chrono;
 
-Chauffage::Chauffage(Logger& logger, Consignes* consignes, Temporisations* tempos)
-    : m_logger(logger),
-      m_ventExt(13), m_vitVentExt(16), m_compresseur(5),
+Chauffage::Chauffage(Consignes* consignes, Temporisations* tempos)
+    : m_ventExt(13), m_vitVentExt(16), m_compresseur(5),
       m_ventInt(19), m_vitVentInt(20), m_vanne4V(6),
       m_consignes(consignes), m_tempos(tempos),
-      m_state(HeatingState::IDLE)
+      m_state(HeatingState::IDLE), m_lastVentIntSpeed(VentSpeedHeat::VENT_OFF)
 {
     auto now = steady_clock::now();
     m_departTempoComp = now;
@@ -24,15 +23,7 @@ void Chauffage::stop()
     setVentInt(false, false);
     m_compresseur.off();
     m_vanne4V.off();
-
-    m_ventExtEnMarche.store(false);
-    m_vitesseVentExtEnMarche.store(false);
-    m_ventIntEnMarche.store(false);
-    m_vitesseVentIntEnMarche.store(false);
-    m_compresseurEnMarche.store(false);
-    m_degivrageEnMarche.store(false);
-    m_egouttageEnMarche.store(false);
-
+    m_lastVentIntSpeed = VentSpeedHeat::VENT_OFF;
     m_state = HeatingState::IDLE;
 }
 
@@ -42,12 +33,10 @@ void Chauffage::update(double tempUExt, double tempEExt, double tempUInt, double
     double hystBlocChauf = 0.2;
     double consigneBlocage = m_consignes->get("ConsigneBlocageChauffage");
 
-    if (!m_blocageChauffage.load() && tempUExt >= consigneBlocage + hystBlocChauf) {
-        m_blocageChauffage.store(true);
-        m_logger.info("[CHAUFFAGE] Blocage chauff. activé");
-    } else if (m_blocageChauffage.load() && tempUExt <= consigneBlocage - hystBlocChauf) {
-        m_blocageChauffage.store(false);
-        m_logger.info("[CHAUFFAGE] Blocage chauff. désactivé");
+    if (!m_blocageChauffage && tempUExt >= consigneBlocage + hystBlocChauf) {
+        m_blocageChauffage = true;
+    } else if (m_blocageChauffage && tempUExt <= consigneBlocage - hystBlocChauf) {
+        m_blocageChauffage = false;
     }
 
     // On ne force plus l'entrée en PREHEAT depuis update().
@@ -76,8 +65,7 @@ void Chauffage::actionIdle()
     stop();
 
     // si blocage -> on reste en IDLE
-    if (m_blocageChauffage.load()) {
-        m_logger.info("[IDLE] Chauffage bloqué, restant en IDLE");
+    if (m_blocageChauffage) {
         return;
     }
 
@@ -89,20 +77,17 @@ void Chauffage::actionIdle()
 // PREHEAT : ventilateur extérieur ON (petite vitesse) + tempo avant HEATING.
 void Chauffage::actionPreheat()
 {
-    if (m_blocageChauffage.load()) {
-        m_logger.info("[PREHEAT] Blocage détecté -> retour IDLE");
+    if (m_blocageChauffage) {
         enterState(HeatingState::IDLE);
         return;
     }
 
     // Ventilateur extérieur ON petite vitesse
-    if (!m_ventExtEnMarche.load()) setVentExt(true, false);
+    if (!m_ventExt.isOn()) setVentExt(true, false);
 
     auto now = steady_clock::now();
     int tempoComp = static_cast<int>(m_tempos->get("tempoComp"));
     int ecoule = static_cast<int>(duration_cast<seconds>(now - m_departTempoComp).count());
-
-    m_logger.info("[PREHEAT] ecoule=" + std::to_string(ecoule) + " tempoComp=" + std::to_string(tempoComp));
 
     if (ecoule >= tempoComp) {
         enterState(HeatingState::HEATING);
@@ -112,8 +97,7 @@ void Chauffage::actionPreheat()
 // ---------------- HEATING ----------------
 void Chauffage::actionHeating(double tempUExt, double tempEExt, double tempUInt, double tempEInt)
 {
-    if (m_blocageChauffage.load()) {
-        m_logger.info("[HEATING] Blocage détecté -> passage en IDLE");
+    if (m_blocageChauffage) {
         enterState(HeatingState::IDLE);
         return;
     }
@@ -124,11 +108,10 @@ void Chauffage::actionHeating(double tempUExt, double tempEExt, double tempUInt,
     else setVentExt(true, false);
 
     // Démarrage compresseur si besoin (on respecte tempoComp déjà réglé par PREHEAT)
-    if (!m_compresseurEnMarche.load()) {
+    if (!m_compresseur.isOn()) {
         m_compresseur.on();
-        m_compresseurEnMarche.store(true);
+        //m_compresseurEnMarche.store(true);
         m_departCompresseur = steady_clock::now();
-        m_logger.info("[COMPRESSEUR] ON");
     }
 
     // Détection dégivrage
@@ -140,8 +123,7 @@ void Chauffage::actionHeating(double tempUExt, double tempEExt, double tempUInt,
     bool conditionTemp = (tempUExt >= 5.0 && tempEExt < -3.0) ||
                          (tempEExt < (0.4 * tempUExt - 5.0));
 
-    if (!m_degivrageEnMarche.load() && !m_egouttageEnMarche.load() && conditionTemps && conditionTemp) {
-        m_logger.info("[DÉGIVRAGE] Condition atteinte -> entrée DEGIVRAGE");
+    if (conditionTemps && conditionTemp) {
         enterState(HeatingState::DEGIVRAGE);
         return;
     }
@@ -151,20 +133,26 @@ void Chauffage::actionHeating(double tempUExt, double tempEExt, double tempUInt,
     double consignePetiteVitesse = m_consignes->get("ConsignePetiteVitesseInterieurChauffage");
     double hystVentInt = 0.2;
 
-    if (!m_ventIntEnMarche.load() && m_compresseurEnMarche.load() && tempEInt > consigneDepartVentInt) {
+    if(tempEInt > consigneDepartVentInt) {
+        m_lastVentIntSpeed = VentSpeedHeat::VENT_LOW;
         setVentInt(true, false);
-        m_logger.info("[VENT INT] ON");
     }
-
-    if (m_ventIntEnMarche.load()) {
-        if (tempUInt <= consignePetiteVitesse - hystVentInt) setVentInt(true, true);
-        else if (tempUInt >= consignePetiteVitesse + hystVentInt) setVentInt(true, false);
+    if(m_ventInt.isOn()) {
+        if(tempUInt <= consignePetiteVitesse - hystVentInt) {
+            m_lastVentIntSpeed = VentSpeedHeat::VENT_HIGH;
+            setVentInt(true, true);
+        } else if(tempUInt >= consignePetiteVitesse + hystVentInt) {
+            m_lastVentIntSpeed = VentSpeedHeat::VENT_LOW;
+            setVentInt(true, false);
+        } else {
+            // Conserver l'état précédent
+            setVentInt(m_lastVentIntSpeed != VentSpeedHeat::VENT_OFF, m_lastVentIntSpeed == VentSpeedHeat::VENT_HIGH);
+        }
     }
 
     // Vanne 4 voies off en chauffage classique
     if (m_vanne4V.isOn()) {
         m_vanne4V.off();
-        m_logger.info("[V4V] OFF (heating)");
     }
 }
 
@@ -174,13 +162,11 @@ void Chauffage::actionDegivrage()
     // Pendant dégivrage : compresseur arrêté, ventilateurs off, V4V ON
     setVentExt(false, false);
     setVentInt(false, false);
-    if (m_compresseurEnMarche.load()) {
+    if (m_compresseur.isOn()) {
         m_compresseur.off();
-        m_compresseurEnMarche.store(false);
     }
     if (!m_vanne4V.isOn()) {
         m_vanne4V.on();
-        m_logger.info("[V4V] ON (degivrage)");
     }
 
     if (m_debutDegivrage.time_since_epoch().count() == 0)
@@ -190,11 +176,7 @@ void Chauffage::actionDegivrage()
     int tempoFinDegivrage = static_cast<int>(m_tempos->get("tempoFinDegCh"));
     int ecoule = static_cast<int>(duration_cast<seconds>(now - m_debutDegivrage).count());
 
-    m_logger.info("[DEGIVRAGE] " + std::to_string(ecoule) + "/" + std::to_string(tempoFinDegivrage));
-
     if (ecoule >= tempoFinDegivrage) {
-        m_degivrageEnMarche.store(false);
-        m_egouttageEnMarche.store(true);
         m_debutEgouttage = now;
         enterState(HeatingState::EGOUTTAGE);
     }
@@ -205,13 +187,11 @@ void Chauffage::actionEgouttage()
 {
     setVentExt(true, true);   // grande vitesse forcée pour égouttage
     setVentInt(false, false);
-    if (m_compresseurEnMarche.load()) {
+    if (m_compresseur.isOn()) {
         m_compresseur.off();
-        m_compresseurEnMarche.store(false);
     }
     if (m_vanne4V.isOn()) {
         m_vanne4V.off();
-        m_logger.info("[V4V] OFF (egouttage)");
     }
 
     if (m_debutEgouttage.time_since_epoch().count() == 0)
@@ -221,10 +201,7 @@ void Chauffage::actionEgouttage()
     int tempoEgouttage = static_cast<int>(m_tempos->get("tempoEgouttage"));
     int ecoule = static_cast<int>(duration_cast<seconds>(now - m_debutEgouttage).count());
 
-    m_logger.info("[EGOUTTAGE] " + std::to_string(ecoule) + "/" + std::to_string(tempoEgouttage));
-
     if (ecoule >= tempoEgouttage) {
-        m_egouttageEnMarche.store(false);
         // reset pour le prochain cycle
         m_departTempoComp = now;
         enterState(HeatingState::HEATING);
@@ -240,24 +217,16 @@ void Chauffage::enterState(HeatingState newState)
     switch(newState) {
         case HeatingState::PREHEAT:
             m_departTempoComp = now;
-            m_logger.info("[STATE] → PREHEAT");
             break;
         case HeatingState::HEATING:
-            m_logger.info("[STATE] → HEATING");
             break;
         case HeatingState::DEGIVRAGE:
             m_debutDegivrage = now;
-            m_degivrageEnMarche.store(true);
-            m_compresseurEnMarche.store(false);
-            m_logger.info("[STATE] → DEGIVRAGE");
             break;
         case HeatingState::EGOUTTAGE:
             m_debutEgouttage = now;
-            m_egouttageEnMarche.store(true);
-            m_logger.info("[STATE] → EGOUTTAGE");
             break;
         default:
-            m_logger.info("[STATE] → IDLE");
             break;
     }
 }
@@ -266,25 +235,19 @@ void Chauffage::setVentExt(bool on, bool grandeVitesse)
 {
     if (on) m_ventExt.on(); else m_ventExt.off();
     if (grandeVitesse) m_vitVentExt.on(); else m_vitVentExt.off();
-
-    m_ventExtEnMarche.store(on);
-    m_vitesseVentExtEnMarche.store(grandeVitesse);
 }
 
 void Chauffage::setVentInt(bool on, bool grandeVitesse)
 {
     if (on) m_ventInt.on(); else m_ventInt.off();
     if (grandeVitesse) m_vitVentInt.on(); else m_vitVentInt.off();
-
-    m_ventIntEnMarche.store(on);
-    m_vitesseVentIntEnMarche.store(grandeVitesse);
 }
 
 // ---------------- getters ----------------
-bool Chauffage::isVentExtEnMarche() const { return m_ventExtEnMarche.load(); }
-bool Chauffage::isVitesseVentExtEnMarche() const { return m_vitesseVentExtEnMarche.load(); }
-bool Chauffage::isVentIntEnMarche() const { return m_ventIntEnMarche.load(); }
-bool Chauffage::isVitesseVentIntEnMarche() const { return m_vitesseVentIntEnMarche.load(); }
-bool Chauffage::isCompresseurEnMarche() const { return m_compresseurEnMarche.load(); }
-bool Chauffage::isDegivrageEnMarche() const { return m_degivrageEnMarche.load(); }
-bool Chauffage::isEgouttageEnMarche() const { return m_egouttageEnMarche.load(); }
+bool Chauffage::isVentExtEnMarche() const { return m_ventExt.isOn(); }
+bool Chauffage::isVitesseVentExtEnMarche() const { return m_vitVentExt.isOn(); }
+bool Chauffage::isVentIntEnMarche() const { return m_ventInt.isOn(); }
+bool Chauffage::isVitesseVentIntEnMarche() const { return m_vitVentInt.isOn(); }
+bool Chauffage::isCompresseurEnMarche() const { return m_compresseur.isOn(); }
+bool Chauffage::isDegivrageEnMarche() const { return m_state == HeatingState::DEGIVRAGE; }
+bool Chauffage::isEgouttageEnMarche() const { return m_state == HeatingState::EGOUTTAGE; }
