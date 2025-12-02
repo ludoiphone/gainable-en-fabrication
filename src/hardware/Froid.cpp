@@ -1,11 +1,11 @@
 #include "Froid.hpp"
 
-Froid::Froid(Logger& logger, Consignes* consignes, Temporisations* tempos)
-    : m_logger(logger),
-      m_compresseur(5), m_ventExt(13), m_vitVentExt(16),
+Froid::Froid(Consignes* consignes, Temporisations* tempos)
+    : m_compresseur(5), m_ventExt(13), m_vitVentExt(16),
       m_ventInt(19), m_vitVentInt(20), m_vanne4V(6),
       m_consignes(consignes), m_tempos(tempos),
-      m_state(CoolingState::IDLE)
+      m_state(CoolingState::IDLE), m_lastVentExtSpeed(VentSpeedCool::VENT_OFF),
+      m_lastVentIntSpeed(VentSpeedCool::VENT_OFF)
 {
     stop();
 }
@@ -16,9 +16,9 @@ void Froid::stop()
     setVentInt(false, false);
     m_compresseur.off();
     m_vanne4V.off();
+    m_lastVentExtSpeed = VentSpeedCool::VENT_OFF;
+    m_lastVentIntSpeed = VentSpeedCool::VENT_OFF;
     m_state = CoolingState::IDLE;
-    
-    m_logger.info("[IDLE] → ");
 }
 
 // ===========================================
@@ -26,7 +26,7 @@ void Froid::stop()
 // ===========================================
 void Froid::update(double tempUExt, double tempUInt, double tempEInt)
 {
-    // 🚀 AUTO-START : si PAC appelle update, on démarre le froid
+    // AUTO-START : si PAC appelle update, on démarre le froid
     if(m_state == CoolingState::IDLE)
         enterState(CoolingState::COOLING);
 
@@ -49,7 +49,6 @@ void Froid::handleState(double tempUExt, double tempUInt, double tempEInt)
 // ===========================================
 void Froid::actionIdle()
 {
-    // normal : tout est OFF
     stop();
 }
 
@@ -59,14 +58,50 @@ void Froid::actionCooling(double tempUExt, double tempUInt, double tempEInt)
     double consigneGVext = m_consignes->get("ConsigneGrandeVitesseExterieurFroid");
     double consigneGVint = m_consignes->get("ConsigneGrandeVitesseInterieurFroid");
     double hyst = 0.2;
-
+    
     // === Ventilateur extérieur ===
-    if(tempUExt >= consigneGVext) setVentExt(true, true);
-    else if(tempUExt <= consignePVext) setVentExt(true, false);
+    // Initialisation au premier cycle si aucune mémoire
+    if (m_lastVentExtSpeed == VentSpeedCool::VENT_OFF) {
+        // on décide d'une vitesse initiale selon la température
+        if (tempUExt <= consignePVext) m_lastVentExtSpeed = VentSpeedCool::VENT_LOW;
+        else if (tempUExt >= consigneGVext) m_lastVentExtSpeed = VentSpeedCool::VENT_HIGH;
+        else m_lastVentExtSpeed = VentSpeedCool::VENT_LOW; // par défaut, petite vitesse si entre
+    }
+
+    // Mise à jour selon seuils en conservant la mémoire entre les seuils
+    if (tempUExt <= consignePVext) {
+        // force petite vitesse
+        m_lastVentExtSpeed = VentSpeedCool::VENT_LOW;
+        setVentExt(true, false);
+    }
+    else if (tempUExt >= consigneGVext) {
+        // force grande vitesse
+        m_lastVentExtSpeed = VentSpeedCool::VENT_HIGH;
+        setVentExt(true, true);
+    }
+    else {
+        // entre PV et GV -> garder la vitesse précédente et appliquer
+        bool gv = (m_lastVentExtSpeed == VentSpeedCool::VENT_HIGH);
+        bool on = (m_lastVentExtSpeed != VentSpeedCool::VENT_OFF);
+        setVentExt(on, gv);
+    }
 
     // === Ventilateur intérieur ===
-    if(tempUInt >= consigneGVint + hyst) setVentInt(true, true);
-    else if(tempUInt <= consigneGVint - hyst) setVentInt(true, false);
+    if(tempUInt >= consigneGVint + hyst) {
+        m_lastVentIntSpeed = VentSpeedCool::VENT_HIGH;
+        setVentInt(true, true);
+    }
+    else if(tempUInt <= consigneGVint - hyst) {
+        m_lastVentIntSpeed = VentSpeedCool::VENT_LOW;
+        setVentInt(true, false);
+    }
+    else {
+        // Entre les seuils : conserver l’état précédent
+        if(m_lastVentIntSpeed == VentSpeedCool::VENT_HIGH) setVentInt(true, true);
+        else if(m_lastVentIntSpeed == VentSpeedCool::VENT_LOW) setVentInt(true, false);
+        else setVentInt(false, false); // au cas où OFF
+    }
+
 
     // === Vanne 4V ===
     if(!m_vanne4V.isOn()) m_vanne4V.on();
@@ -126,14 +161,19 @@ void Froid::enterState(CoolingState newState)
     if(newState == CoolingState::COOLING)    m_departTempoComp = now;
     if(newState == CoolingState::DEGIVRAGE)  m_debutDegivrage = now;
     if(newState == CoolingState::EGOUTTAGE)  m_debutEgouttage = now;
-
-    m_logger.info("[STATE] → " + std::to_string((int)newState));
 }
 
 void Froid::setVentExt(bool on, bool gv)
 {
-    if(on) m_ventExt.on(); else m_ventExt.off();
-    if(gv) m_vitVentExt.on(); else m_vitVentExt.off();
+    if (on) m_ventExt.on(); else m_ventExt.off();
+    if (gv) m_vitVentExt.on(); else m_vitVentExt.off();
+
+    // Mettre la mémoire à jour seulement si on est sur ON (si off, on garde OFF)
+    if (on) {
+        m_lastVentExtSpeed = gv ? VentSpeedCool::VENT_HIGH : VentSpeedCool::VENT_LOW;
+    } else {
+        m_lastVentExtSpeed = VentSpeedCool::VENT_OFF;
+    }
 }
 
 void Froid::setVentInt(bool on, bool gv)
@@ -145,8 +185,8 @@ void Froid::setVentInt(bool on, bool gv)
 // ===========================================
 //               GETTERS
 // ===========================================
-bool Froid::isVentExtEnMarche() const { return m_ventExt.isOn(); }
-bool Froid::isVitesseVentExtEnMarche() const { return m_vitVentExt.isOn(); }
+bool Froid::isVentExtEnMarche() const { return m_lastVentExtSpeed != VentSpeedCool::VENT_OFF; }
+bool Froid::isVitesseVentExtEnMarche() const { return m_lastVentExtSpeed == VentSpeedCool::VENT_HIGH; }
 bool Froid::isVentIntEnMarche() const { return m_ventInt.isOn(); }
 bool Froid::isVitesseVentIntEnMarche() const { return m_vitVentInt.isOn(); }
 bool Froid::isCompresseurEnMarche() const { return m_compresseur.isOn(); }
