@@ -1,5 +1,4 @@
 #pragma once
-#include "utils/Logger.hpp"
 #include "hardware/Relay.hpp"
 #include "logic/Consignes.hpp"
 #include "logic/Temporisations.hpp"
@@ -14,10 +13,12 @@ enum class HeatingState {
     EGOUTTAGE
 };
 
+enum class VentSpeedHeat { VENT_OFF = 0, VENT_LOW = 1, VENT_HIGH = 2 };
+
 class Chauffage
 {
 public:
-    Chauffage(Logger& logger, Consignes* consignes, Temporisations* tempos);
+    Chauffage(Consignes* consignes, Temporisations* tempos);
     void update(double tempUExt, double tempEExt, double tempUInt, double tempEInt);
     void stop();
 
@@ -47,9 +48,6 @@ private:
     void setVentExt(bool on, bool grandeVitesse);
     void setVentInt(bool on, bool grandeVitesse);
 
-private:
-    Logger& m_logger;
-
     Relay m_ventExt;
     Relay m_vitVentExt;
     Relay m_compresseur;
@@ -60,16 +58,8 @@ private:
 
     Consignes* m_consignes;
     Temporisations* m_tempos;
-
-    std::atomic<bool> m_blocageChauffage{false};
-
-    std::atomic<bool> m_ventExtEnMarche{false};
-    std::atomic<bool> m_vitesseVentExtEnMarche{false};
-    std::atomic<bool> m_ventIntEnMarche{false};
-    std::atomic<bool> m_vitesseVentIntEnMarche{false};
-    std::atomic<bool> m_compresseurEnMarche{false};
-    std::atomic<bool> m_degivrageEnMarche{false};
-    std::atomic<bool> m_egouttageEnMarche{false};
+    
+    bool m_blocageChauffage = false;
 
     HeatingState m_state;
 
@@ -77,4 +67,6 @@ private:
     std::chrono::steady_clock::time_point m_departCompresseur;
     std::chrono::steady_clock::time_point m_debutDegivrage;
     std::chrono::steady_clock::time_point m_debutEgouttage;
+    
+    VentSpeedHeat m_lastVentIntSpeed;
 };
