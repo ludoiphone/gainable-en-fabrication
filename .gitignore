@@ -1,0 +1,19 @@
+# Dossiers de build
+build/
+cmake-build-*/
+out/
+
+# Fichiers compilés
+*.o
+*.a
+*.so
+*.exe
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
